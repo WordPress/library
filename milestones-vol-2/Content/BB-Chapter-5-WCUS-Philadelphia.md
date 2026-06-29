@@ -27,7 +27,7 @@ The REST API is the foundation for the block editor. It was available as a plugi
 
 It was also the basis of Calypso, the open source project allowing users to manage WordPress.com and Jetpack-enabled self-hosted WordPress websites using a desktop interface.
 
-Calypso is a new interface for managing multiple WordPress sites written in JavaScript rather than PhP. Matt described it as the interface he would have built for WordPress in the first place if he had known then what he knew in 2015. While it’s often called “the new WordPress,” it is optional for WordPress.org (self-hosted) websites.
+Calypso is a new interface for managing multiple WordPress sites written in JavaScript rather than PHP. Matt described it as the interface he would have built for WordPress in the first place if he had known then what he knew in 2015. While it’s often called “the new WordPress,” it is optional for WordPress.org (self-hosted) websites.
 
 Jetpack must be installed on your website for Calypso to be available, and you must download the app. In January 2015, there were just 71 contributors to Calypso. By November, there were 127. By the spring of 2020, the number had grown to 496.
 
@@ -37,7 +37,7 @@ Calypso is now the standard interface for WordPress.com and is readily available
 
 As always, there were complaints. “I hope there is no plan or intention to delete the proper editor in favor of this terrible cut down version, clearly driven by the curse of the mobile phone,” wrote one commenter in a Calypso forum post.
 
-There was also excitement about the use of JavaScript. In his State of the Word presentation, Matt reassured that, “PhP is not going away.”
+There was also excitement about the use of JavaScript. In his State of the Word presentation, Matt reassured that, “PHP is not going away.”
 
 ## Community Summit and Contributor Day
 

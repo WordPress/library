@@ -35,7 +35,7 @@ Jeff Paul expressed excitement about the Community Summit coming up in 2023.  â€
 
 ### 2022 Version releases
 
-WordPress 5.9, "Josephine," was a significant release, in that it brought the Site Editor and Twenty Twenty-Two, the first default block theme. It launched on January 25t of 2022. Matt led the release, and it included the work of 624 volunteers.
+WordPress 5.9, "Josephine," was a significant release, in that it brought the Site Editor and Twenty Twenty-Two, the first default block theme. It launched on January 25 of 2022. Matt led the release, and it included the work of 624 volunteers.
 
 ![](https://i0.wp.com/wordpress.org/news/files/2022/01/5-9-inline-v2.png?resize=1536%2C1042&ssl=1)
 
