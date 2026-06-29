@@ -2,7 +2,7 @@
 
 A community of hobbyists drove WordPress for a long time, but eventually, the hobbyists wanted to support their hobby. Developers charged for customizations; Automattic was building a blog network along with related products like Akismet. Theme designers, too, wanted to make money for the time and effort they put into developing themes for the project.
 
-It isn’t immediately obvious how someone can make money and still uphold the ethos of a free software project. How can the two goals co-exist? In the early days of the WordPress economy, the distinction between freedom and free beer was blurry. Community members fumbled for answers: is it acceptable to make money with a GPL project?  Who has the right to make money out of a project that belongs to its volunteers? How can one run a theme business when the core product is free? 
+It isn’t immediately obvious how someone can make money and still uphold the ethos of a free software project. How can the two goals co-exist? In the early days of the WordPress economy, the distinction between freedom and free beer was blurry. Community members fumbled for answers: is it acceptable to make money with a GPL project? Who has the right to make money out of a project that belongs to its volunteers? How can one run a theme business when the core product is free? 
 
 The period between 2006 and 2009 was one of experimentation and discovery for businesses in the WordPress ecosystem. During these tumultuous years, the community wrestled with commercialization while the theme marketplace grew. WordPress users -- web users -- have always been concerned with their websites' look. As WordPress became more popular, many bloggers built their own themes and realized that they could generate income from them.
 

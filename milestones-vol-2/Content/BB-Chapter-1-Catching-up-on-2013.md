@@ -13,7 +13,7 @@ The WordPress [official tally](https://wordpress.com/blog/2014/01/06/2013-review
 ![image](https://github.com/WordPress/wp20-book/assets/90657387/f641732f-6d09-4565-9325-8a3d463750c4)
 
 
-The goal of WordPress was then, as it is today, the democratization of publishing. Ten years into the Project, building a website and publishing it online, thanks to the WordPress platform, was easier than ever. People could connect with  other enthusiasts of any interest; however small the group of enthusiasts might be. Everyone could find fellowship anywhere in the world. The world had never experienced this degree of connection, digital or otherwise, before.
+The goal of WordPress was then, as it is today, the democratization of publishing. Ten years into the Project, building a website and publishing it online, thanks to the WordPress platform, was easier than ever. People could connect with other enthusiasts of any interest; however small the group of enthusiasts might be. Everyone could find fellowship anywhere in the world. The world had never experienced this degree of connection, digital or otherwise, before.
 
 WordPress was no longer just a blogging platform. The content management system empowered users and let them ensure that their websites were more than a pretty face. For the first time, an individual with a dream could create an online presence with the same kind of presence and heft as a major company. A small nonprofit could show its commitment to its cause and bring in volunteers and donations just like a well-established organization. Every project could find its home on the web, from fantasy sports leagues to town history archives.
 

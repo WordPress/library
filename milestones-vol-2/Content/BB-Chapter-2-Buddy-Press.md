@@ -26,7 +26,7 @@ Collaboration is central for JJJ. He was just finishing college and starting to 
 
 He knew people were trying to connect with others online, but as he discovered, finding tools that rewarded and supported those connections was quite difficult. “BuddyPress had some clear problems it could solve,” he says, “I went where I could make the most people the happiest.”
 
-It was the collaborative aspect that brought him the greatest happiness  and overall sense of satisfaction. “We had so many really cool contributors,” he recalls. “You’d wake up and there was this whole new thing to look at.”
+It was the collaborative aspect that brought him the greatest happiness and overall sense of satisfaction. “We had so many really cool contributors,” he recalls. “You’d wake up and there was this whole new thing to look at.”
 
 At the same time, BuddyPress became a use case that showed the unlimited potential of WordPress. “It was the first big plugin that really pushed the boundaries of what WordPress could do,” says JJJ. He invested immeasurable energy into supporting it and encouraging others to contribute. 
 

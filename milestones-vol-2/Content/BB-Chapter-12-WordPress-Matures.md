@@ -82,7 +82,7 @@ But that was along a continuum from WordPress.org responsibility to individual s
 Hosting companies stopped supporting old versions of PHP, forcing updates. However, they didn’t always alert site owners that their websites might break—or even that they had broken. Hands-off site owners might not realize that their websites were no longer functional until they began to affect the bottom line of their business or organization, which was when they were in crisis mode. 
 
 
-One example is the experience of Operation Sail, or [OpSail](https://opsail.org/), a nonprofit established in 1961 by President Kennedy and supported by the U.S. Congress and the British royal family. Their website broke. Months later, as the organization prepared  for an event, they discovered that their website was offline. Neither their hosting company nor the agency that originally built the site was able to solve the problem, and OpSail had to start over.
+One example is the experience of Operation Sail, or [OpSail](https://opsail.org/), a nonprofit established in 1961 by President Kennedy and supported by the U.S. Congress and the British royal family. Their website broke. Months later, as the organization prepared for an event, they discovered that their website was offline. Neither their hosting company nor the agency that originally built the site was able to solve the problem, and OpSail had to start over.
 
 
 Agencies and freelance site builders might have a continuing relationship with the site owners, but in many cases, they had only built the site. Without being hired to serve as webmasters, they often did not feel a responsibility to keep these websites functional. 

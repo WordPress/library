@@ -88,7 +88,7 @@ The Training team prepared curricula for Hack the Hood events during these years
 
 The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp U.S. This effort began in 2015 following the death of community member Kim Parsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp U.S. to a WordPress contributor who has yet to attend WordCamp U.S.
 
-Between 2015 and 2022, the Foundation paid  $15,418 in travel funds.
+Between 2015 and 2022, the Foundation paid $15,418 in travel funds.
 
 In 2017, the Diversity Outreach Speaker Training working group began meeting. Diversity beyond female representation began to be a common topic in conversations around WordCamps and in sessions at WordCamps. While it is clear that these were aspirational conversations, many organizers spoke frankly about efforts they were making to welcome more diverse groups of speakers and attendees. In this year, Yoast SEO also created a scholarship for diverse speakers.
  
@@ -110,6 +110,6 @@ Not everyone agreed. [Francesca Marano](https://profiles.wordpress.org/francina/
 
 It also brought new contributors to the project. “It was a way for underrepresented folks to get their foot in the door,” Francesca said.
 
-5.6 introduced a new default theme, Twenty Twenty-One, focusing on accessibility and built-in  block patterns. It allowed users to opt into automatic core updates and improved video captioning. More than 600 volunteers contributed to this release.
+5.6 introduced a new default theme, Twenty Twenty-One, focusing on accessibility and built-in block patterns. It allowed users to opt into automatic core updates and improved video captioning. More than 600 volunteers contributed to this release.
 
 2014 was a watershed year for diversity and inclusion for WordPress. Years of work followed, and results still continue to blossom.
