@@ -22,7 +22,7 @@ ThemeForest vendors had only the split license, in which the PHP was GPL and the
 
 WordCamp Central's actions angered some community members; some thought it was unfair to ask theme sellers to give up their livelihood simply to speak at a WordCamp. Others supported WordPress.org; they believed the stance consistent with the GPL. 
 
-On both sides, people were frustrated for ThemeForest's authors. While the issue had little influence on the powers-that-be at WordPress or Envato, theme authors stuck in the middle suffered. With only the split license at Themeforest, they had one choice -- jeopardize their short-term livelihood by moving off ThemeForest.
+On both sides, people were frustrated for ThemeForest's authors. While the issue had little influence on the powers-that-be at WordPress or Envato, theme authors stuck in the middle suffered. With only the split license at ThemeForest, they had one choice -- jeopardize their short-term livelihood by moving off ThemeForest.
 
 The argument raged in the comments of Jake's blog, spiralling to other <a href="http://www.poststat.us/what-now-for-commercial-theme-authors/">WordPress community blogs</a>, and to the <a href="http://themeforest.net/forums/thread/wordpressorg-bans-themeforest-members-from-participating-in-official-wordcamp-gatherings/85648?page=2">ThemeForest forums</a>. Matt joined the discussion on Jake's blog, <a href="http://www.designcrumbs.com/automatically-blackballed#comment-430">saying that</a> if ThemeForest authors had a choice about licensing and could release their theme under the GPL, then "Envato would still be breaking the guideline, but Jake wouldn't, so it'd be fine for Jake to be involved with WordCamps."
 

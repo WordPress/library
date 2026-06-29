@@ -10,7 +10,7 @@ In December 2005, as the memory of WordPress Inc. faded, <a href="http://ma.tt/2
 
 Automattic marked a new, but challenging, beginning for its employees, who had to balance the free project's aims with the company's commercial goals. It's a balance that has affected both WordPress and Automattic throughout their close histories. The business generates income and provides contributors and support to the project, while the project creates the software that is the foundation of the business. The business needs to grow in a non-destructive, sustainable way, allowing the project to grow, mature, and attract a diverse group of contributors. 
 
-The company launched with four employees: Donncha Ó Caiomh, the original developer of WordPress MU, worked on WordPress.com's infrastructure with Ryan Boren, Matt, and Andy Skelton. They left their jobs and put their faith in WordPress -- that it could grow beyond its roots as a small project into a platform that could sustain a blogging business. 		
+The company launched with four employees: Donncha Ó Caoimh, the original developer of WordPress MU, worked on WordPress.com's infrastructure with Ryan Boren, Matt, and Andy Skelton. They left their jobs and put their faith in WordPress -- that it could grow beyond its roots as a small project into a platform that could sustain a blogging business. 		
 
 In January 2006, Toni Schneider joined as CEO (or "adult supervision" for the still only 19-year-old Matt). Toni was a developer and later CEO of OddPost, a startup that was acquired by Yahoo! and became the basis of Yahoo! mail. After setting up the Yahoo! Developer Network, Toni joined Automattic for a new challenge. 	
 	
