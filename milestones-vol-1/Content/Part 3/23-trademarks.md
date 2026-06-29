@@ -26,6 +26,6 @@ Others jumped to defend the two sites. Even those who supported Automattic's tra
 
 Eventually, the sites came to an agreement with Automattic. Sherman agreed to add a trademark symbol beside every use of the word WordPress, and <a href="https://web.archive.org/web/20061130162903/http://www.wordpresstutorials.com/?">Hong's WordPress Tutorials site came out with a redesign</a>. Sherman eventually shut WordPress Videos down in 2008, moving on to focus on his consulting business.
 
-Since then, Automattic has consistently enforced the WordPress trademark. While to many it appears that Automattic is motivated by commercial benefit, its involvement brings advantages as well; as commercial entity, it's able to put resources into enforcement that the free software project doesn't have.  Still, it would be several more years before all the WordPress trademark issues were resolved.
+Since then, Automattic has consistently enforced the WordPress trademark. While to many it appears that Automattic is motivated by commercial benefit, its involvement brings advantages as well; as a commercial entity, it's able to put resources into enforcement that the free software project doesn't have.  Still, it would be several more years before all the WordPress trademark issues were resolved.
 
 

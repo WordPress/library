@@ -106,7 +106,7 @@ While she remarks that “Sexism and racism are daily experiences,” she also p
 
 “What gives you the time, the opportunity, even the confidence to insert yourself into the project, working in public?” she asks. Her answer: usually, only members of the dominant culture have this kind of self-assurance.
 
-Not everyone agreed. [Francesca Marano](https://profiles.wordpress.org/francina/) recalls that there were some reacted with anger. “A release for women–that’s discrimination,” she heard some people saying. “It showed the true allies of women in WordPress.”
+Not everyone agreed. [Francesca Marano](https://profiles.wordpress.org/francina/) recalls that there were some who reacted with anger. “A release for women–that’s discrimination,” she heard some people saying. “It showed the true allies of women in WordPress.”
 
 It also brought new contributors to the project. “It was a way for underrepresented folks to get their foot in the door,” Francesca said.
 

@@ -8,7 +8,7 @@ But by December 12, the first case of COVID-19 was reported in China. Two months
 ![](https://make.wordpress.org/marketing/files/2023/04/WordCamp-Asia-2023.png)
 
 
-[WordCamp Asia](https://asia.wordcamp.org/2023/) was to take place in Bangkok in February 2020. The organizing team began their preparations months earlier, in May  2019. Amid fears of the contagion that began gripping the world in late January 2020, they became acutely aware that COVID-19 impact their planning and started thinking of the best ways to have a safe event. 
+[WordCamp Asia](https://asia.wordcamp.org/2023/) was to take place in Bangkok in February 2020. The organizing team began their preparations months earlier, in May  2019. Amid fears of the contagion that began gripping the world in late January 2020, they became acutely aware that COVID-19 impacted their planning and started thinking of the best ways to have a safe event. 
 
 The organizers created a channel in the collaboration software, Slack, that acted as a forum for discussions that ranged from designs for masks to updates on travelers from China. They planned an advisory page for the website and discussed how to accomplish social distancing. In a meeting with WordCamp Central early in February, they were asked whether they thought they could safely proceed. They felt that they could. They planned to proceed with caution. “We were 100% sure we were having the event,” says [Naoko Takano](https://profiles.wordpress.org/nao/), the event's lead organizer.
 
