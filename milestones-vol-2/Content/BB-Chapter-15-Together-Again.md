@@ -12,7 +12,7 @@ Contributors and other community members said that over and over.
 
 As the world reopened, WordPressers, in general, took advantage of the opportunity to get back together again.
 
-In 2021, all but one WordCamp took place online. However, 2022 saw 23 in-person WordCamps across Asia in India, Indonesia, and Nepal, in several European countries,  in parts of South America, and around the United States. Flagship events like WordCamp Europe and WordCamp US returned, embracing vaccine mandates and relaxed guidelines for larger events. There were a few online events, but overall, people were excited to see one another again. 
+In 2021, all but one WordCamp took place online. However, 2022 saw 23 in-person WordCamps across Asia in India, Indonesia, and Nepal, in several European countries, in parts of South America, and around the United States. Flagship events like WordCamp Europe and WordCamp US returned, embracing vaccine mandates and relaxed guidelines for larger events. There were a few online events, but overall, people were excited to see one another again. 
 
 Tammie Lister, for whom WordCamp Europe in 2022 was not only the first in-person WordPress event she attended after the pandemic but also the first plane ride and the first travel she undertook, said she hoped the online events would continue. For her, there were more events during the pandemic because of the ease of virtual travel. She hopes to continue taking advantage of those opportunities as well as getting back to in-person events.
 
@@ -31,11 +31,11 @@ Ticket sales pages told attendees to respect the stickers asking people to wear 
 
 The world was figuring out whether to hug or shake hands and how cautious to be. Online events were still an acceptable option, the official messages emphasized. But there was a high level of excitement over the return of face-to-face connections.
 
-Jeff Paul expressed excitement about the Community Summit coming up in 2023.  “I care a lot about the health, diversity, and vibrance of open source,” he said. “It’s the joy that’s unlocked by knowing that I’ve done what I could.”
+Jeff Paul expressed excitement about the Community Summit coming up in 2023. “I care a lot about the health, diversity, and vibrance of open source,” he said. “It’s the joy that’s unlocked by knowing that I’ve done what I could.”
 
 ### 2022 Version releases
 
-WordPress 5.9, "Josephine," was a significant release, in that it brought the Site Editor and Twenty Twenty-Two, the first default block theme. It launched on January 25t of 2022. Matt led the release, and it included the work of 624 volunteers.
+WordPress 5.9, "Josephine," was a significant release, in that it brought the Site Editor and Twenty Twenty-Two, the first default block theme. It launched on January 25, 2022. Matt led the release, and it included the work of 624 volunteers.
 
 ![](https://i0.wp.com/wordpress.org/news/files/2022/01/5-9-inline-v2.png?resize=1536%2C1042&ssl=1)
 
@@ -55,7 +55,7 @@ Writers could select text across blocks and keep existing styles when they trans
 
 In addition, users could lock their blocks, ensuring consistent styling within their websites.
 
-WordPress 6.1, "Misha," was released on November 1, 2022. Matt was once again the release lead, and more than 800 people from over 60 countries took part.  The announcement included the news that WordPress powered 43% of the websites in the world.
+WordPress 6.1, "Misha," was released on November 1, 2022. Matt was once again the release lead, and more than 800 people from over 60 countries took part. The announcement included the news that WordPress powered 43% of the websites in the world.
 
 ![](https://i0.wp.com/wordpress.org/news/files/2022/11/inline-image-inline.png?resize=1536%2C1024&ssl=1)
 

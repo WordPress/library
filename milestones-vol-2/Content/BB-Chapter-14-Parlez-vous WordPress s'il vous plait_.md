@@ -3,7 +3,7 @@
 ### Multilingual efforts over the years
 As the pandemic slowed down, a new awareness of the ways in which the world is interconnected brought increasing concern with the plans for Gutenberg Phase 4 -- Multilingual Support. 
 
-Multiple languages were not by any means a new phenomenon for WordPress. “WordPress has always been localized,” says Francesca Morano. “Localization of WordPress and the wealth of plugins we have is the big factor in making WordPress so popular.” A look at the history of WordPress shows that localization gathered momentum as time went on. 
+Multiple languages were not by any means a new phenomenon for WordPress. “WordPress has always been localized,” says Francesca Marano. “Localization of WordPress and the wealth of plugins we have is the big factor in making WordPress so popular.” A look at the history of WordPress shows that localization gathered momentum as time went on. 
 
 Multiple language packs, the technology that allows automatic translation on WordPress sites, were available as early as 2007. The first Rosetta site—WordPress.org websites in non-English languages—was launched in 2008. It was in [Bulgarian](https://br.wordpress.org), largely because a Bulgarian contributor put in the time. While this was a classic example of progress where a highly motivated individual was involved, WordPress continued to move toward better multilingual performance every year.
 
@@ -19,7 +19,7 @@ Increasing global connections were reflected in some other WordPress events arou
 
 In 2020, WordCamp Spain took place online, welcoming Spanish-speaking visitors around the world. “We have consciously given a push to unite both sides of the pond thanks to this common interest: the growth of WordPress in Spanish,” wrote Pablo Moratinos, the organizer of the WordCamp. Matt favors more language-centered WordCamps, too. 
 
-In 2021, a language switcher was added to the login screen in version 5.9. [Erica Varlese](https://profiles.wordpress.org/evarlese/) proposed to translate [learn.WordPress.org](http://learn.WordPress.org), and by the end of the year, the training site was available in 21 languages. 
+In 2022, a language switcher was added to the login screen in version 5.9. [Erica Varlese](https://profiles.wordpress.org/evarlese/) proposed to translate [learn.WordPress.org](http://learn.WordPress.org), and by the end of the year, the training site was available in 21 languages. 
 
 ### The software
 

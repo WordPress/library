@@ -12,7 +12,7 @@ The event -- which he announced without a venue or schedule -- would be on Augus
 
 _The first WordCamp. (cc license Scott Beale ([Laughing Squid](http://laughingsquid.com)))_
 
-WordCamp San Francisco 2006 also saw Matt's inaugural "State of the Word" presentation, in which he <a href="http://dan.hersam.com/2006/08/05/wordcamp-notes/">focused on keeping the software simple</a>, with streamlined installation and user-friendly theme and admin pages. He invited more people to contribute to documentation and support, highlighting Mark Riley's work, and discussed future updates in a Q&amp;A afterwards.  This WordPress year-in-review and "coming soon" talk has been a feature of every WordCamp San Francisco since (and in 2015, of the first-ever WordCamp US in Philadelphia, Pennsylvania).
+WordCamp San Francisco 2006 also saw Matt's inaugural "State of the Word" presentation, in which he <a href="http://dan.hersam.com/2006/08/05/wordcamp-notes/">focused on keeping the software simple</a>, with streamlined installation and user-friendly theme and admin pages. He invited more people to contribute to documentation and support, highlighting Mark Riley's work, and discussed future updates in a Q&amp;A afterwards. This WordPress year-in-review and "coming soon" talk has been a feature of every WordCamp San Francisco since (and in 2015, of the first-ever WordCamp US in Philadelphia, Pennsylvania).
 
 <img alt="State of the word 2006" src="../../Resources/images/21/wcsf_2006_sotw_matt.jpg" width="800px" />
 

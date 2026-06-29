@@ -6,7 +6,7 @@ The first WordCamp Europe took place in Leiden, the Netherlands, in 2013, though
 
 There were 20 organizers, 69 speakers, and 160 volunteers. WordCamp Europe also featured a Wapuu coloring book.
 
-WordCamp Europe was a continent-wide event and has continued through the years. WordCamp U.S. was the other flagship WordCamp, inaugurated in 2015 in Philadelphia. Prior to this time, there were a number of other nationwide WordCamps, including WordCamp Netherlands, which began in 2009. WordCamps UK, Switzerland, Denmark, Croatia, and Israel were other examples.
+WordCamp Europe was a continent-wide event and has continued through the years. WordCamp US was the other flagship WordCamp, inaugurated in 2015 in Philadelphia. Prior to this time, there were a number of other nationwide WordCamps, including WordCamp Netherlands, which began in 2009. WordCamps UK, Switzerland, Denmark, Croatia, and Israel were other examples.
 
 In 2017, however, the decision was made not to allow WordCamp Netherlands but to insist on a city-based WordCamp. “We have worked hard in the past eight years to move the WordCamp program away from country-named events and toward city-named events for a number of reasons that focus on the health and longevity of the community as a whole,” Josepha wrote. “After observing hundreds of WordCamps and WordPress Meetup events over the years, we have seen that hosting city-named events helps to prevent entrenched leadership, makes space for new volunteers and participants, and gives clarity to how the program functions.”
 
@@ -49,7 +49,7 @@ This experience also affected finances at the city-based WordCamps, which had di
 
 Discussions on the experience at that point focused on the vision of small, informal local WordCamps vs. larger, fancier regional WordCamps. 
 
-While the Dutch participants were steadfast in their claims that they are just too small a country for city-based camps to make sense,  sponsored contributor [Hugh Lashbrook](https://profiles.wordpress.org/hlashbrooke/) from New Zealand emphasized the way that city-based WordCamps could serve as incubators for leaders and speakers.
+While the Dutch participants were steadfast in their claims that they are just too small a country for city-based camps to make sense, sponsored contributor [Hugh Lashbrook](https://profiles.wordpress.org/hlashbrooke/) from New Zealand emphasized the way that city-based WordCamps could serve as incubators for leaders and speakers.
 
 WordCamp, he pointed out, was developed with a strong emphasis on local connections. Regional WordCamps prevented those close connections. “As soon as you get a WordCamp of that size, you can’t really connect with everyone.”
 

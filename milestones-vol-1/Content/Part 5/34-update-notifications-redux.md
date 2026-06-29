@@ -27,7 +27,7 @@ Mark joined the discussion on WP Tavern to share some of the reasons he changed 
 
 <ul>
 <li>An IP address, which must be sent by the server, is not significantly more anonymous than a URL.</li>	
-<li>URLs allow WordPress to verify the identity of a blog. When URLs are hashed it’s no longer possibly to verify the blog identity. Without proper verification, systems that involve plugin rankings based on usage or popularity are open to manipulation and abuse.</li>	
+<li>URLs allow WordPress to verify the identity of a blog. When URLs are hashed it’s no longer possible to verify the blog identity. Without proper verification, systems that involve plugin rankings based on usage or popularity are open to manipulation and abuse.</li>
 <li>The privacy policy was updated to cover api.wordpress.org.</li>
 </ul>	
 

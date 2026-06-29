@@ -30,7 +30,7 @@ The interview delineated what WordPress.org would and would not support. People 
 
 In the months following the debate, people wondered how to sustain a business under the GPL. As the first to embrace the license, Brian Gardner advised other premium theme sellers. In April 2009, <a href="https://web.archive.org/web/20090619172730/http://spectacu.la/were-going-100-gpl/">Spectacu.la</a>, the theme shop that first posted about themes being removed from the repo, announced that it was going fully GPL. It was followed in June by <a href="http://ithemes.com/2009/06/11/ithemes-is-going-gpl/">iThemes</a> and <a href="https://web.archive.org/web/20100309084201/http://www.woothemes.com/2009/06/woothemes-gpled">WooThemes</a>. 
 
-In July, Matt announced that he had contacted the Software Freedom Law Centre. They <a href="http://wordpress.org/news/2009/07/themes-are-gpl-too/">provided an opinion on theme licensing</a>: 
+In July, Matt announced that he had contacted the Software Freedom Law Center. They <a href="http://wordpress.org/news/2009/07/themes-are-gpl-too/">provided an opinion on theme licensing</a>: 
 
 <blockquote>...the WordPress themes supplied contain elements that are derivative of WordPress's copyrighted code. These themes, being collections of distinct works (images, CSS files, PHP files), need not be GPL-licensed as a whole. Rather, the PHP files are subject to the requirements of the GPL while the images and CSS are not. Third-party developers of such themes may apply restrictive copyrights to these elements if they wish.</blockquote>
 

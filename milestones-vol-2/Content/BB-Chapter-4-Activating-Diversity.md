@@ -29,11 +29,11 @@ Jill had seen at her hometown WordCamp in Vancouver that women were underreprese
 
 People who speak at WordCamps, she said, benefit directly from that. “They get jobs, they get asked to do more speaking, they get positions of leadership.” What’s more, the addition of more perspectives brings greater innovation. As people see their identities on the stage, they feel more comfortable speaking and taking on leadership positions; it's a virtuous circle. 
 
-“There are societal reasons why this happens and I can’t fix all of them, but there’s one thing I can do.” Jill elbaorates that when people lack confidence about speaking and they feel underrepresented they feel disempowered. 
+“There are societal reasons why this happens and I can’t fix all of them, but there’s one thing I can do.” Jill elaborates that when people lack confidence about speaking and they feel underrepresented they feel disempowered. 
 
 The workshop helped women – and then all varieties of underrepresented speakers – feel emboldened enough to apply to speak. WordCamp Vancouver had 50% female speakers the following year. 
 
-Jill shares the story of [Ebonie Butler](https://profiles.wordpress.org/metalandcoffee/), an alumna of the Diverse Speaker Training, who was accepted to speak at WordCamp U.S. in 2022. Her message, “Be your authentic self,” is one of the important messages of Diverse Speaker Training. 
+Jill shares the story of [Ebonie Butler](https://profiles.wordpress.org/metalandcoffee/), an alumna of the Diverse Speaker Training, who was accepted to speak at WordCamp US in 2022. Her message, “Be your authentic self,” is one of the important messages of Diverse Speaker Training. 
 
 “Diversity in WordPress is one of the things that will ensure the long-term health and growth of the project,” Jill says. 
 
@@ -86,9 +86,9 @@ WordPress began to support organizations like [Hack the Hood](https://www.hackth
 
 The Training team prepared curricula for Hack the Hood events during these years, including a themes workshop. At the same time, Josepha Haden Chomphosy worked with schools in low-income neighborhoods in Kansas City and San Francisco, presenting WordPress 101 courses for underrepresented populations. In addition to extending the commitment to diversity, the goal was to use WordPress to bridge the digital divide within schools. 
 
-The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp U.S. This effort began in 2015 following the death of community member Kim Parrsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp U.S. to a WordPress contributor who has yet to attend WordCamp US. 
+The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp US. This effort began in 2015 following the death of community member Kim Parsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp US to a WordPress contributor who has yet to attend WordCamp US.
 
-Between 2015 and 2022, the Foundation paid  $15,418 in travel funds.
+Between 2015 and 2022, the Foundation paid $15,418 in travel funds.
 
 In 2017, the Diversity Outreach Speaker Training working group began meeting. Diversity beyond female representation began to be a common topic in conversations around WordCamps and in sessions at WordCamps. While it is clear that these were aspirational conversations, many organizers spoke frankly about efforts they were making to welcome more diverse groups of speakers and attendees. In this year, Yoast SEO also created a scholarship for diverse speakers.
  
@@ -106,10 +106,10 @@ While she remarks that “Sexism and racism are daily experiences,” she also p
 
 “What gives you the time, the opportunity, even the confidence to insert yourself into the project, working in public?” she asks. Her answer: usually, only members of the dominant culture have this kind of self-assurance.
 
-Not everyone agreed. [Francesca Marano](https://profiles.wordpress.org/francina/) recalls that there were some reacted with anger. “A release for women–that’s discrimination,” she heard some people saying. “It showed the true allies of women in WordPress.”
+Not everyone agreed. [Francesca Marano](https://profiles.wordpress.org/francina/) recalls that there were some who reacted with anger. “A release for women–that’s discrimination,” she heard some people saying. “It showed the true allies of women in WordPress.”
 
 It also brought new contributors to the project. “It was a way for underrepresented folks to get their foot in the door,” Francesca said.
 
-5.6 introduced a new default theme, Twenty Twenty-One, focusing on accessibility and built-in  block patterns. It allowed users to opt into automatic core updates and improved video captioning. More than 600 volunteers contributed to this release.
+5.6 introduced a new default theme, Twenty Twenty-One, focusing on accessibility and built-in block patterns. It allowed users to opt into automatic core updates and improved video captioning. More than 600 volunteers contributed to this release.
 
 2014 was a watershed year for diversity and inclusion for WordPress. Years of work followed, and results still continue to blossom.
