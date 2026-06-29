@@ -24,7 +24,7 @@ Sherman Hu and Brandon Hong both received letters. As is often the case in the b
 
 Others jumped to defend the two sites. Even those who supported Automattic's trademark position bristled when Matt branded the two sites as "snake oil,” and Hu's customers and friends flocked to Beard's post to voice their support. Other prominent internet marketers, including <a href="http://www.copyblogger.com/does-your-copy-look-spammy/">copyblogger's Brian Clark</a>, took issue with the fact that long sales letters were branded spammy and scammy.
 
-Eventually, the sites came to an agreement with Automattic. Sherman agreed to add a trademark symbol beside every use of the word WordPress, and <a href="https://web.archive.org/web/20061130162903/http://www.wordpresstutorials.com/?">Hong's WordPress Tutorials site came out with a redesign</a>. Sherman eventually shut WordPress Videos down in 2008, moving on to focus on his consulting business.
+Eventually, the sites came to an agreement with Automattic. Sherman agreed to add a trademark symbol beside every use of the word WordPress, and <a href="https://web.archive.org/web/20061130162903/http://www.wordpresstutorials.com/?">Hu's WordPress Tutorials site came out with a redesign</a>. Sherman eventually shut WordPress Videos down in 2008, moving on to focus on his consulting business.
 
 Since then, Automattic has consistently enforced the WordPress trademark. While to many it appears that Automattic is motivated by commercial benefit, its involvement brings advantages as well; as a commercial entity, it's able to put resources into enforcement that the free software project doesn't have. Still, it would be several more years before all the WordPress trademark issues were resolved.
 
