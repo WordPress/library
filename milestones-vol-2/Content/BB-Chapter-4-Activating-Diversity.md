@@ -33,7 +33,7 @@ People who speak at WordCamps, she said, benefit directly from that. “They get
 
 The workshop helped women – and then all varieties of underrepresented speakers – feel emboldened enough to apply to speak. WordCamp Vancouver had 50% female speakers the following year. 
 
-Jill shares the story of [Ebonie Butler](https://profiles.wordpress.org/metalandcoffee/), an alumna of the Diverse Speaker Training, who was accepted to speak at WordCamp U.S. in 2022. Her message, “Be your authentic self,” is one of the important messages of Diverse Speaker Training. 
+Jill shares the story of [Ebonie Butler](https://profiles.wordpress.org/metalandcoffee/), an alumna of the Diverse Speaker Training, who was accepted to speak at WordCamp US in 2022. Her message, “Be your authentic self,” is one of the important messages of Diverse Speaker Training. 
 
 “Diversity in WordPress is one of the things that will ensure the long-term health and growth of the project,” Jill says. 
 
@@ -86,7 +86,7 @@ WordPress began to support organizations like [Hack the Hood](https://www.hackth
 
 The Training team prepared curricula for Hack the Hood events during these years, including a themes workshop. At the same time, Josepha Haden Chomphosy worked with schools in low-income neighborhoods in Kansas City and San Francisco, presenting WordPress 101 courses for underrepresented populations. In addition to extending the commitment to diversity, the goal was to use WordPress to bridge the digital divide within schools. 
 
-The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp U.S. This effort began in 2015 following the death of community member Kim Parsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp U.S. to a WordPress contributor who has yet to attend WordCamp U.S.
+The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp US. This effort began in 2015 following the death of community member Kim Parsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp US to a WordPress contributor who has yet to attend WordCamp US.
 
 Between 2015 and 2022, the Foundation paid $15,418 in travel funds.
 

@@ -34,7 +34,7 @@ Attempts to hold the event in 2021 were also canceled, and the first WordCamp As
 
 ### WordPress in the time of COVID-19
 
-WordCamp San Antonio was the first virtual WordCamp, taking place March 28-29, 2020. Many more followed, including WordCamp Europe, another flagship event, in Portugal. WordCamp U.S. was canceled, but there were 31 [WordCamps](https://central.wordcamp.org/about/) in 2020, mostly virtual.
+WordCamp San Antonio was the first virtual WordCamp, taking place March 28-29, 2020. Many more followed, including WordCamp Europe, another flagship event, in Portugal. WordCamp US was canceled, but there were 31 [WordCamps](https://central.wordcamp.org/about/) in 2020, mostly virtual.
 
 Meetups went virtual in many communities but remained an important part of the organization. 745 meetup groups in the WordPress chapter program met, for a total of more than [4,900 meetups](https://make.wordpress.org/community/2021-wordpress-global-community-sponsorship-program/). 
 
