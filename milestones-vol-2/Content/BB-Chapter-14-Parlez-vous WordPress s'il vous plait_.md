@@ -19,7 +19,7 @@ Increasing global connections were reflected in some other WordPress events arou
 
 In 2020, WordCamp Spain took place online, welcoming Spanish-speaking visitors around the world. “We have consciously given a push to unite both sides of the pond thanks to this common interest: the growth of WordPress in Spanish,” wrote Pablo Moratinos, the organizer of the WordCamp. Matt favors more language-centered WordCamps, too. 
 
-In 2021, a language switcher was added to the login screen in version 5.9. [Erica Varlese](https://profiles.wordpress.org/evarlese/) proposed to translate [learn.WordPress.org](http://learn.WordPress.org), and by the end of the year, the training site was available in 21 languages. 
+In 2022, a language switcher was added to the login screen in version 5.9. [Erica Varlese](https://profiles.wordpress.org/evarlese/) proposed to translate [learn.WordPress.org](http://learn.WordPress.org), and by the end of the year, the training site was available in 21 languages. 
 
 ### The software
 
