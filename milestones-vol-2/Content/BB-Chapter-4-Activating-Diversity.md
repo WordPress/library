@@ -86,7 +86,7 @@ WordPress began to support organizations like [Hack the Hood](https://www.hackth
 
 The Training team prepared curricula for Hack the Hood events during these years, including a themes workshop. At the same time, Josepha Haden Chomphosy worked with schools in low-income neighborhoods in Kansas City and San Francisco, presenting WordPress 101 courses for underrepresented populations. In addition to extending the commitment to diversity, the goal was to use WordPress to bridge the digital divide within schools. 
 
-The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp U.S. This effort began in 2015 following the death of community member Kim Parsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp U.S. to a WordPress contributor who has yet to attend WordCamp US. 
+The [Kim Parsell Memorial Scholarship](https://wordpressfoundation.org/projects/kim-parsell-memorial-scholarship/) supports travel and lodging for one woman each year to attend her first WordCamp U.S. This effort began in 2015 following the death of community member Kim Parsell. She had been helped to attend a WordCamp in 2014 and said that the experience changed her life. The WordPress Foundation funds one scholarship each year to WordCamp U.S. to a WordPress contributor who has yet to attend WordCamp U.S.
 
 Between 2015 and 2022, the Foundation paid  $15,418 in travel funds.
 
