@@ -58,4 +58,4 @@ But they didn’t. By the time the reins loosened they had founded their own pro
 
 <img alt="Chris Davis, Owen Winkler, and Nicole Evans at Ohio Linux Fest 2007" src="../../Resources/images/24/habari_oh_linux_fest_credit_morydd.jpg" />
 
-*Chris Davis, Owen Winkler, and Nicole Evans at Ohio Linux Fest 2007. (Image CC license [Sean T Evans](http://www.flickr.com/photos/morydd/1463477046/))*
+*Chris Davis, Owen Winkler, and Nicole Evans at Ohio Linux Fest 2007. (Image CC license [Sean T. Evans](http://www.flickr.com/photos/morydd/1463477046/))*

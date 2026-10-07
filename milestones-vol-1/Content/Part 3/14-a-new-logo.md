@@ -19,7 +19,7 @@ Since the project was so small, community members had fun on the homepage, riffi
 
 ![WordPress Calvin Logo](../../Resources/images/14/wp-logo-calvin.gif) 
 
-*Logos that were created for WordPress.org for special occasions.*
+*These logos were created for WordPress.org special occasions.*
 
 Eventually, WordPress needed a professional logo. Usage was growing and WordPress needed a logo that properly represented it. As a free software project, the community was the first place to look for a logo. Community suggestions were solicited. A mixed set of results came back, which were shared with the wp-design group for feedback.
 
@@ -49,7 +49,7 @@ A version of the admin screen with it in situ was produced.
 
 ![Asmussen admin design](../../Resources/images/14/2005_05_wordpress-logo-proposal_asmussen_admin.jpg) 
 
-*Joen Asmussen's admin design with the heart logo in situ.*
+*A version of the admin screen with Joen Asmussen's heart logo in situ.*
 
 Community members weren't the only ones tackling the logo. In March, Matt met <a href="http://jasonsantamaria.com/">Jason Santa Maria</a> at South by South West and asked him to try redesigning the WordPress logo. They shared ideas about what they thought the logo should be: "the things that kept coming up were not only the idea of publishing but the idea of having a personal journal and a personal thing that might have some sort of tactile overtones," <a href="http://archive.wordpress.org/interviews/2014_01_22_Santa_Maria.html#L7)">Jason says</a>. "We were making links to things like letterpress and journaling and any sort of older representations of what it meant to publish something in a physical form." In April 2005, <a href="http://lists.wordpress.org/pipermail/wp-design/2005-April/000182.html">some of the early versions were shared</a> with the wp-design group:
 

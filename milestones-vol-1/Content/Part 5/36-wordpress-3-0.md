@@ -16,7 +16,7 @@ Merging WordPress MU with WordPress came for several reasons: WordPress MU was d
 
 Ron Rennick, a longtime MU user, assisted with the merge. He and Andrea, his wife, had used WordPress MU for years for their homeschooling blogging network. His script turned a WordPress install into a WordPress MU install. He reverse engineered his script to bring MU functionality into WordPress, ensuring a way to convert a single WordPress install to a Multisite install.
 
-Ron ran a diff [^Fn-1] against the WordPress MU code, looked for differences in the codebase, and <a href="https://core.trac.wordpress.org/ticket/11644">merged them into WordPress core</a>. Ryan Boren and Andrew Nacin cleaned up the code. Ron also merged features absent from WordPress MU in plugins, such as <a href="http://wordpress.org/plugins/wordpress-mu-domain-mapping/">domain mapping</a> -- a feature originally developed by Donncha.
+Ron ran a diff[^1] against the WordPress MU code, looked for differences in the codebase, and <a href="https://core.trac.wordpress.org/ticket/11644">merged them into WordPress core</a>. Ryan Boren and Andrew Nacin cleaned up the code. Ron also merged features absent from WordPress MU in plugins, such as <a href="http://wordpress.org/plugins/wordpress-mu-domain-mapping/">domain mapping</a> -- a feature originally developed by Donncha.
 
 Plan A was to allow users to upgrade to WordPress Multisite with one click. “The reason we decided not to do that,” <a href="http://archive.wordpress.org/interviews/2014_04_05_Rennick_R.html#L76">says Ron</a>, “is that a lot of the shared hosts would not have been happy if their users could just take any WordPress install, click a button -- without actually knowing anything about what was going to happen -- and convert it over to Multisite. The decision was made to actually make it a physical process that they had to go through.” To change a WordPress installation into Multisite, WordPress users have to edit <code>wp-config</code>. They need basic technical knowledge.
 
@@ -64,4 +64,4 @@ Despite these development snafus, with WordPress 3.0, the platform matured, maki
 WordPress 3.0 ushered in changes to the project and the development process. It opened up WordPress to a new generation of people who became increasingly active. Over the coming releases, some of those committers would take on leadership, both in terms of development and in the wider community. 
 
 
-[^Fn-1] A diff is a comparison tool that compares the difference between two files. 
+[^1]: A diff is a comparison tool that compares the difference between two files. 

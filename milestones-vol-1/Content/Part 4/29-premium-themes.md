@@ -8,7 +8,7 @@ In the wake of sponsored themes, theme developers were looking for ways to make 
 
 <em>"Automattic doesn't want me to make money.”</em>
 
-Some people felt that Matt only wanted Automattic to make money from WordPress, a situation that wasn't helped when, after the sponsored themes debate, <a href="http://ma.tt/2007/11/wpcom-marketplace-idea/">Matt announced a WordPress.com theme marketplace</a>, resulting in <a href="http://www.blogherald.com/2007/11/01/wordpress-theme-marketplace-hypocrisy-from-matt/">cries of hypocrisy</a>. Despite laying the initial groundwork, Automattic decided not to go ahead with the plan. "It didn't seem right to go into it when we hadn't really worked out all the licensing issues yet," <a href="http://archive.wordpress.org/interviews/2014_04_01_Mullenweg.html#L157">says Matt</a>. [^Fn-1]
+Some people felt that Matt only wanted Automattic to make money from WordPress, a situation that wasn't helped when, after the sponsored themes debate, <a href="http://ma.tt/2007/11/wpcom-marketplace-idea/">Matt announced a WordPress.com theme marketplace</a>, resulting in <a href="http://www.blogherald.com/2007/11/01/wordpress-theme-marketplace-hypocrisy-from-matt/">cries of hypocrisy</a>. Despite laying the initial groundwork, Automattic decided not to go ahead with the plan. "It didn't seem right to go into it when we hadn't really worked out all the licensing issues yet," <a href="http://archive.wordpress.org/interviews/2014_04_01_Mullenweg.html#L157">says Matt</a>.[^1]
 
 While the WordPress.com theme marketplace was set aside, employees inside Automattic were still curious about whether people would pay for a blog design. Noël Jackson (<a href="http://profiles.wordpress.org/noel">noel</a>), a former Automattic employee, <a href="http://archive.wordpress.org/interviews/2014_03_23_Jackson.html#L48">recalls</a> the time when premium WordPress themes started to appear:
 
@@ -80,4 +80,4 @@ In the midst of these debates, themes found a new home on WordPress.org. The the
 
 *The WordPress Theme Directory in 2008.*
 
-[^Fn-1] The theme marketplace didn't launch until 2011, four years after the initial announcement.
+[^1]: The theme marketplace didn't launch until 2011, four years after the initial announcement.
