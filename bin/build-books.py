@@ -55,9 +55,9 @@ def absolute_paths(text, chapter_dir):
         return os.path.abspath(os.path.join(chapter_dir, urllib.parse.unquote(path)))
 
     text = re.sub(r'(<img\s[^>]*src=")([^"]+)"', lambda m: m.group(1) + fix(m.group(2)) + '"', text)
+    text = re.sub(r"(!\[[^\]]*\]\()([^)\s]+)", lambda m: m.group(1) + fix(m.group(2)), text)
     # EPUB only accepts whole numbers for image sizes, so "600px" becomes "600".
-    text = re.sub(r'(<img\s[^>]*(?:width|height)=")(\d+)px"', r'\1\2"', text)
-    return re.sub(r"(!\[[^\]]*\]\()([^)\s]+)", lambda m: m.group(1) + fix(m.group(2)), text)
+    return re.sub(r'\b(width|height)="(\d+)px"', r'\1="\2"', text)
 
 
 def chapter_files(volume, manifest, tmp):
@@ -87,8 +87,7 @@ def chapter_files(volume, manifest, tmp):
             files.append(write(tmp, len(files), f"# Part {PART_NAMES[int(part) - 1]}\n"))
         elif not match and volume["shift"] == 0:
             # The Introduction sits outside the parts, at the top level.
-            text = re.sub(r"(?m)^##(#*)\s", r"###\1 ", text)
-            text = re.sub(r"\A###\s", "# ", text)
+            text = re.sub(r"\A##\s", "# ", text)
 
         # Every chapter numbers its notes from 1, so make the labels unique.
         n = len(files)

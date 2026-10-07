@@ -73,6 +73,13 @@ jobs:
         run: |
           notes="Built from ${GITHUB_SHA::7} on $(date -u +%Y-%m-%d). These files rebuild automatically whenever the book changes on trunk."
           if gh release view latest > /dev/null 2>&1; then
+            # A re-run of an older build must not replace newer books.
+            current=$(gh api "repos/$GH_REPO/git/ref/tags/latest" --jq .object.sha)
+            status=$(gh api "repos/$GH_REPO/compare/$current...$GITHUB_SHA" --jq .status)
+            if [ "$status" != "ahead" ] && [ "$status" != "identical" ]; then
+              echo "The latest release already has newer books ($current), so this run is not publishing."
+              exit 0
+            fi
             gh api -X PATCH "repos/$GH_REPO/git/refs/tags/latest" -f sha="$GITHUB_SHA" -F force=true > /dev/null
             gh release edit latest --notes "$notes"
           else
