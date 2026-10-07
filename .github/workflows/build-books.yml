@@ -1,0 +1,81 @@
+name: Build books
+
+# Builds the EPUB and PDF of each volume. Pull requests check that the books
+# still build and pass epubcheck; pushes to trunk also publish them to the
+# "latest" release, so the download links always serve the current text.
+
+on:
+  pull_request:
+    paths:
+      - 'milestones-vol-*/**'
+      - 'manifest.json'
+      - 'bin/build-books.py'
+      - 'bin/book.css'
+      - '.github/workflows/build-books.yml'
+  push:
+    branches: [trunk]
+    paths:
+      - 'milestones-vol-*/**'
+      - 'manifest.json'
+      - 'bin/build-books.py'
+      - 'bin/book.css'
+      - '.github/workflows/build-books.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: build-books-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc, WeasyPrint and epubcheck
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc weasyprint epubcheck fonts-dejavu
+
+      - name: Build
+        run: python3 bin/build-books.py
+
+      - name: Check the EPUBs
+        run: |
+          for book in build/*.epub; do
+            java -jar /usr/share/java/epubcheck.jar "$book"
+          done
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: books
+          path: build/
+          retention-days: 7
+
+  publish:
+    needs: build
+    if: github.ref == 'refs/heads/trunk' && github.event_name != 'pull_request'
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: books
+          path: build/
+
+      - name: Publish to the "latest" release
+        run: |
+          notes="Built from ${GITHUB_SHA::7} on $(date -u +%Y-%m-%d). These files rebuild automatically whenever the book changes on trunk."
+          if gh release view latest > /dev/null 2>&1; then
+            gh api -X PATCH "repos/$GH_REPO/git/refs/tags/latest" -f sha="$GITHUB_SHA" -F force=true > /dev/null
+            gh release edit latest --notes "$notes"
+          else
+            gh release create latest --target "$GITHUB_SHA" --title "Latest books" --notes "$notes" --latest
+          fi
+          gh release upload latest build/*.epub build/*.pdf --clobber

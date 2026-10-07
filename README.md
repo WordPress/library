@@ -6,11 +6,11 @@ The WordPress Library is a home for books about the history and development of W
 
 ### [Vol. 1 — Milestones: The Story of WordPress](milestones-vol-1/)
 
-The origins of WordPress and its first decade. [Read the book](milestones-vol-1/) · Formats: [EPUB](milestones-vol-1/Formats/Milestones-The-Story-of-WordPress.epub) · [PDF](milestones-vol-1/Formats/Milestones-The-Story-of-WordPress.pdf) · [MOBI](milestones-vol-1/Formats/Milestones-The-Story-of-WordPress.mobi)
+The origins of WordPress and its first decade. [Read the book](milestones-vol-1/) · Download: [EPUB](https://github.com/WordPress/library/releases/download/latest/Milestones-The-Story-of-WordPress.epub) · [PDF](https://github.com/WordPress/library/releases/download/latest/Milestones-The-Story-of-WordPress.pdf) · [Original 2015 edition](milestones-vol-1/Formats/)
 
 ### [Vol. 2 — Building Blocks: The Evolution of WordPress](milestones-vol-2/)
 
-WordPress' second decade — the Gutenberg project, the global pandemic, and a look at where the project is headed. [Read the book](milestones-vol-2/) · Formats: [EPUB](milestones-vol-2/Formats/Building%20Blocks%20The%20Evolution%20of%20WordPress%20%282page%29.epub) · [PDF](milestones-vol-2/Formats/Building_Blocks_The_Evolution_of_WordPress.pdf) · [MOBI](milestones-vol-2/Formats/Building%20Blocks%20The%20Evolution%20of%20WordPress.mobi)
+WordPress' second decade — the Gutenberg project, the global pandemic, and a look at where the project is headed. [Read the book](milestones-vol-2/) · Download: [EPUB](https://github.com/WordPress/library/releases/download/latest/Building-Blocks-The-Evolution-of-WordPress.epub) · [PDF](https://github.com/WordPress/library/releases/download/latest/Building-Blocks-The-Evolution-of-WordPress.pdf) · [Original 2023 edition](milestones-vol-2/Formats/)
 
 ## How wordpress.org/book updates
 
@@ -20,6 +20,10 @@ WordPress' second decade — the Gutenberg project, the global pandemic, and a l
 - Footnotes use standard Markdown: `[^1]` in the text and `[^1]: The note.` at the end of the chapter.
 - A new chapter needs a post on the site first, then a manifest entry with that post's slug.
 - `python3 bin/check-manifest.py` checks the manifest and footnotes. It also runs on every pull request.
+
+## Downloads
+
+The EPUB and PDF links above rebuild from this repo every time the book changes on `trunk`, so they always match the text here and on wordpress.org/book. `python3 bin/build-books.py` builds them locally (it needs [pandoc](https://pandoc.org/) and [WeasyPrint](https://weasyprint.org/)). Kindle reads the EPUB directly. The designed original editions, with their typography and MOBI files, stay in each volume's `Formats/` folder, but they don't include later fixes.
 
 ## Feedback
 

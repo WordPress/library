@@ -1,0 +1,87 @@
+/* Print styles for the PDF that bin/build-books.py makes with WeasyPrint. */
+
+@page {
+	size: 6in 9in;
+	margin: 0.75in 0.7in 0.8in;
+
+	@bottom-center {
+		content: counter(page);
+		font-size: 9pt;
+	}
+}
+
+body {
+	font-family: Georgia, "DejaVu Serif", serif;
+	font-size: 10.5pt;
+	line-height: 1.45;
+	hyphens: auto;
+}
+
+@page cover {
+	margin: 0;
+
+	@bottom-center {
+		content: none;
+	}
+}
+
+.cover {
+	page: cover;
+	break-after: page;
+}
+
+.cover img {
+	width: 6in;
+	height: 9in;
+	object-fit: cover;
+	margin: 0;
+}
+
+header#title-block-header {
+	text-align: center;
+	padding-top: 2.5in;
+	break-after: page;
+}
+
+nav#TOC {
+	break-after: page;
+}
+
+nav#TOC ul {
+	list-style: none;
+	padding-left: 1em;
+}
+
+h1 {
+	break-before: page;
+	font-size: 20pt;
+}
+
+h2 {
+	font-size: 15pt;
+}
+
+/* Volume 1 chapters are ## under # Part headings, so each starts a page. */
+h2.chapter {
+	break-before: page;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 1em auto;
+}
+
+a {
+	color: inherit;
+}
+
+.footnotes {
+	font-size: 9pt;
+}
+
+blockquote {
+	margin-left: 1.5em;
+	font-style: italic;
+}
