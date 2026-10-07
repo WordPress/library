@@ -4,9 +4,9 @@
 
 According to Ryan Boren, WordPress 2.7 ushered in “the modern era of WordPress.” It also brought a new face to the WordPress project. WordPress 2.5's redesign wasn't well received, though the reasons why weren't clear. Was the user interface the problem? Or did people dislike it because they felt cut out of the process? 
 
-Jen Mylo (<a href="http://profiles.wordpress.org/jenmylo">jenmylo</a>)[^fn-1] and Matt are old friends. At the time, she ran a usability testing and design center at a New York agency in conjunction with Ball State University. The center's usability studies used the latest eye-tracking technologies with clients, including television networks such as ABC, NBC, and MTV. When a TV network missed a usability test window, Jen offered the slot to WordPress at cost. 
+Jen Mylo (<a href="http://profiles.wordpress.org/jenmylo">jenmylo</a>)[^1] and Matt are old friends. At the time, she ran a usability testing and design center at a New York agency in conjunction with Ball State University. The center's usability studies used the latest eye-tracking technologies with clients, including television networks such as ABC, NBC, and MTV. When a TV network missed a usability test window, Jen offered the slot to WordPress at cost. 
 
-The usability review had three stages conducted in two rounds. In Round 1, they tested WordPress 2.5, gathering "low hanging fruit" recommendations to improve the admin's UI. Using the recommendations, the development team created and tested a prototype (Test1515) to learn whether users' experiences had improved. In Round 2, they created and tested a more drastic prototype -- dubbed Crazyhorse [^fn-2] -- based on the Test1515 findings.
+The usability review had three stages conducted in two rounds. In Round 1, they tested WordPress 2.5, gathering "low hanging fruit" recommendations to improve the admin's UI. Using the recommendations, the development team created and tested a prototype (Test1515) to learn whether users' experiences had improved. In Round 2, they created and tested a more drastic prototype -- dubbed Crazyhorse[^2] -- based on the Test1515 findings.
 
 The research team used three main testing methods in Round 1:
 
@@ -71,7 +71,7 @@ While Happy Cog and project Crazyhorse did user research, they ended up with qui
 
 With the Crazyhorse prototypes a proven success, fleshing out its design was the next step. When Crazyhorse <a href="https://core.trac.wordpress.org/ticket/7552">first merged with trunk</a>, it was a set of live wireframes. Design changes had not been introduced to prevent swaying participants by color or typeface preferences. By the time the Automattic meetup in Breckenridge, Colorado, took place in 2008, Crazyhorse was ready for some color. 
 
-At Automattic meetups, small teams work on projects assigned at the beginning of the week. Matt Miklic (MT) (<a href="http://profiles.wordpress.org/iammattthomas">iammattthomas</a>) [^fn-3] took on Crazyhorse with free design rein. In redesigning the admin, Jen and MT produced many designs. There was a heavy blue variant reminiscent of Shuttle-inspired WordPress, and a version using the light blue, grays, and orange of Happy Cog. Eventually, these two main variants melded into a gray color scheme that WordPress featured until 2013. Andrew Ozz (<a href="http://profiles.wordpress.org/azaozz">azaozz</a>) received commit access to help implement the Crazyhorse changes. 
+At Automattic meetups, small teams work on projects assigned at the beginning of the week. Matt Miklic (MT) (<a href="http://profiles.wordpress.org/iammattthomas">iammattthomas</a>)[^3] took on Crazyhorse with free design rein. In redesigning the admin, Jen and MT produced many designs. There was a heavy blue variant reminiscent of Shuttle-inspired WordPress, and a version using the light blue, grays, and orange of Happy Cog. Eventually, these two main variants melded into a gray color scheme that WordPress featured until 2013. Andrew Ozz (<a href="http://profiles.wordpress.org/azaozz">azaozz</a>) received commit access to help implement the Crazyhorse changes. 
 
 Jen's community connection differentiated the Happy Cog and Crazyhorse processes. She kept the community abreast of what was going on. She did testing as an adjunct to the WordPress project to verify actual usability flaws with little community involvement. If it had been just a matter of user color preferences, the Crazyhorse project would have been fruitless. But when testing revealed WordPress' interface needed to change, community dialogue ensued. The <a href="http://wordpress.org/news/2008/10/the-visual-design-of-27/">designs</a> and the <a href="http://wordpress.org/news/2008/10/usability-testing-report-25-and-crazyhorse/">usability report</a> were shared on the development blog. The team surveyed users on <a href="http://wordpress.org/news/2008/09/wordpress-27-navigation-options-survey/">navigation options</a>, and <a href="http://lists.wordpress.org/pipermail/wp-hackers/2008-October/021944.html">the community discussed issues on the wp-hackers mailing list</a>. When WordPress 2.7 released, the <a href="http://wordpress.org/news/2008/12/coltrane/">launch post</a> lists the posts Jen and the developers wrote about the process. Up to that point, it is the only iteration of the WordPress admin to have such an information trail.
 
@@ -89,8 +89,8 @@ After completing the Crazyhorse redesign, Jen joined Automattic to work on WordP
 
 This new focus on user testing and user experience meant that the software would work for everyone who wanted to install it -- not just a small set of users. 
 
-[^fn-1] At that time Jen Mylo’s name was Jane Wells. Her name changed in 2013.
+[^1]: At that time Jen Mylo’s name was Jane Wells. Her name changed in 2013.
 
-[^fn-2] Unlike WordPress releases, smaller projects, like Crazyhorse, don't always follow the jazz-musician naming convention.
+[^2]: Unlike WordPress releases, smaller projects, like Crazyhorse, don't always follow the jazz-musician naming convention.
 
-[^fn-3] At that time Matt Miklic’s name was Matt Thomas. His name changed in 2014.
+[^3]: At that time Matt Miklic’s name was Matt Thomas. His name changed in 2014.

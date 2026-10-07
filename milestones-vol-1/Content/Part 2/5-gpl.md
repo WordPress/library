@@ -4,7 +4,7 @@ WordPress is distributed with the <a href="http://www.gnu.org/licenses/gpl-2.0.h
 
 The principles that inspired Mike have inspired thousands of software developers. They are ideas that resonate with hackers, that speak to freedom, and a society based on sharing and collaboration. Communities like WordPress have grown up around an ethos that has influenced models of software development all over the world. 
 
-The principles are the clauses written into the General Public License (GPL), the terms under which the software is distributed. The license was written by Richard Stallman for software he released as part of the GNU software project. [^fn-1] Exasperated by proprietary licensing -- which he believed responsible for the decline of the MIT hacker lab -- he wanted to distribute his software with a license that protected software users’ freedoms. The GPL protects four user freedoms that are at the heart of "free software." “Free" in this context does not apply to price; it refers to freedom, which is the underlying ethos that drives the Free Software Foundation.[^fn-2]
+The principles are the clauses written into the General Public License (GPL), the terms under which the software is distributed. The license was written by Richard Stallman for software he released as part of the GNU software project.[^1] Exasperated by proprietary licensing -- which he believed responsible for the decline of the MIT hacker lab -- he wanted to distribute his software with a license that protected software users’ freedoms. The GPL protects four user freedoms that are at the heart of "free software." “Free" in this context does not apply to price; it refers to freedom, which is the underlying ethos that drives the Free Software Foundation.[^2]
 
 <a href="http://www.gnu.org/philosophy/free-sw.html">Free software protects four essential freedoms</a>:
 
@@ -53,6 +53,6 @@ The freedom of users is protected even further by the sheer number of project co
 
 The choice that Michel made about using the GPL has been one of the most significant decisions in the project’s history. It’s meant that the software's distribution terms protect user-first development, ensuring that users are free to do what they want. But what is the cost of user freedom? This is a question that has come up again and again throughout the project's history as different groups have discovered their own rights and freedoms restricted, whether they be designers, developers, or business owners.
 
-[^Fn-1] In his book, <em>Hackers: Heroes of the Computer Revolution</em>, Stephen Levy explores the Lab at MIT where Richard Stallman worked, and how the Lab's decline led Stallman to create GNU and write the GPL.
+[^1]: In his book, <em>Hackers: Heroes of the Computer Revolution</em>, Stephen Levy explores the Lab at MIT where Richard Stallman worked, and how the Lab's decline led Stallman to create GNU and write the GPL.
 
-[^Fn-2] This choice of the word "free" in this context has dogged the Free Software Foundation throughout its life. The uninitiated think that "free" refers to cost. The Free Software Foundation often has to qualify "free" with the statement "free as in freedom, not as in beer." 
+[^2]: This choice of the word "free" in this context has dogged the Free Software Foundation throughout its life. The uninitiated think that "free" refers to cost. The Free Software Foundation often has to qualify "free" with the statement "free as in freedom, not as in beer." 
