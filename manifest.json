@@ -1,0 +1,368 @@
+{
+	"introduction": {
+		"slug": "introduction",
+		"title": "Introduction",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/introduction.md",
+		"parent": null
+	},
+	"hello-world": {
+		"slug": "hello-world",
+		"title": "Hello World",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%201/1-hello-world.md",
+		"parent": null
+	},
+	"the-only-blogger-in-corsica": {
+		"slug": "the-only-blogger-in-corsica",
+		"title": "The Only Blogger in Corsica",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%201/2-b2-cafelog.md",
+		"parent": null
+	},
+	"the-blogging-software-dilemma": {
+		"slug": "the-blogging-software-dilemma",
+		"title": "The Blogging Software Dilemma",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%201/3-the-blogging-software-dilemma.md",
+		"parent": null
+	},
+	"guiding-principles": {
+		"slug": "guiding-principles",
+		"title": "Guiding Principles",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/4-guiding-principles.md",
+		"parent": null
+	},
+	"the-gpl": {
+		"slug": "the-gpl",
+		"title": "The GPL",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/5-gpl.md",
+		"parent": null
+	},
+	"wordpresss-first-developers": {
+		"slug": "wordpresss-first-developers",
+		"title": "WordPress’ First Developers",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/6-first-developers.md",
+		"parent": null
+	},
+	"inside-the-bazaar": {
+		"slug": "inside-the-bazaar",
+		"title": "Inside the Bazaar",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/7-inside-the-bazaar.md",
+		"parent": null
+	},
+	"support-and-documentation": {
+		"slug": "support-and-documentation",
+		"title": "Support and Documentation",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/8-support-and-documentation.md",
+		"parent": null
+	},
+	"freedom-zero": {
+		"slug": "freedom-zero",
+		"title": "Freedom Zero",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/9-freedom-zero.md",
+		"parent": null
+	},
+	"wordpress-1-2-mingus": {
+		"slug": "wordpress-1-2-mingus",
+		"title": "WordPress 1.2 “Mingus”",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/10-mingus.md",
+		"parent": null
+	},
+	"the-birth-of-wp-hackers": {
+		"slug": "the-birth-of-wp-hackers",
+		"title": "The Birth of wp-hackers",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%202/11-birth-of-wp-hackers.md",
+		"parent": null
+	},
+	"themes": {
+		"slug": "themes",
+		"title": "Themes",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/12-themes.md",
+		"parent": null
+	},
+	"development-in-a-funnel": {
+		"slug": "development-in-a-funnel",
+		"title": "Development in a Funnel",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/13-development-in-a-funnel.md",
+		"parent": null
+	},
+	"a-new-logo": {
+		"slug": "a-new-logo",
+		"title": "A New Logo",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/14-a-new-logo.md",
+		"parent": null
+	},
+	"wordpress-incorporated": {
+		"slug": "wordpress-incorporated",
+		"title": "WordPress Incorporated",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/15-wordpress-inc.md",
+		"parent": null
+	},
+	"wordpress-com": {
+		"slug": "wordpress-com",
+		"title": "WordPress.com",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/16-wordpress_com.md",
+		"parent": null
+	},
+	"akismet": {
+		"slug": "akismet",
+		"title": "Akismet",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/17-akismet.md",
+		"parent": null
+	},
+	"shuttle": {
+		"slug": "shuttle",
+		"title": "Shuttle",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/18-shuttle.md",
+		"parent": null
+	},
+	"automattic": {
+		"slug": "automattic",
+		"title": "Automattic",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/19-automattic.md",
+		"parent": null
+	},
+	"growing-pains": {
+		"slug": "growing-pains",
+		"title": "Growing Pains",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/20-growing-pains.md",
+		"parent": null
+	},
+	"wordcamp-2006": {
+		"slug": "wordcamp-2006",
+		"title": "WordCamp 2006",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/21-wordcamp-2006.md",
+		"parent": null
+	},
+	"speeding-the-release-cycle": {
+		"slug": "speeding-the-release-cycle",
+		"title": "Speeding Up the Release Cycle",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/22-speeding-up-the-release-cycle.md",
+		"parent": null
+	},
+	"trademarks": {
+		"slug": "trademarks",
+		"title": "Trademarks",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/23-trademarks.md",
+		"parent": null
+	},
+	"habari": {
+		"slug": "habari",
+		"title": "Habari",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%203/24-habari.md",
+		"parent": null
+	},
+	"creating-a-folksonomy": {
+		"slug": "creating-a-folksonomy",
+		"title": "Creating a Folksonomy",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%204/25-creating-a-folksonomy.md",
+		"parent": null
+	},
+	"sponsored-themes": {
+		"slug": "sponsored-themes",
+		"title": "Sponsored Themes",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%204/26-sponsored-themes.md",
+		"parent": null
+	},
+	"update-notifications": {
+		"slug": "update-notifications",
+		"title": "Update Notifications",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%204/27-update-notifications.md",
+		"parent": null
+	},
+	"happy-cog-redesign": {
+		"slug": "happy-cog-redesign",
+		"title": "Happy Cog Redesign",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%204/28-happy-cog-redesign.md",
+		"parent": null
+	},
+	"premium-themes": {
+		"slug": "premium-themes",
+		"title": "Premium Themes",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%204/29-premium-themes.md",
+		"parent": null
+	},
+	"riding-the-crazyhorse": {
+		"slug": "riding-the-crazyhorse",
+		"title": "Riding the Crazyhorse",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/30-riding-the-crazyhorse.md",
+		"parent": null
+	},
+	"themes-are-gpl-too": {
+		"slug": "themes-are-gpl-too",
+		"title": "Themes Are GPL Too",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/31-themes-are-gpl-too.md",
+		"parent": null
+	},
+	"improving-infrastructure": {
+		"slug": "improving-infrastructure",
+		"title": "Improving Infrastructure",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/32-improving-infrastructure.md",
+		"parent": null
+	},
+	"meeting-in-person": {
+		"slug": "meeting-in-person",
+		"title": "Meeting in Person",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/33-meeting-in-person.md",
+		"parent": null
+	},
+	"update-notifications-redux": {
+		"slug": "update-notifications-redux",
+		"title": "Update Notifications Redux",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/34-update-notifications-redux.md",
+		"parent": null
+	},
+	"the-wordpress-foundation": {
+		"slug": "the-wordpress-foundation",
+		"title": "The WordPress Foundation",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/35-the-wordpress-foundation.md",
+		"parent": null
+	},
+	"wordpress-3-0": {
+		"slug": "wordpress-3-0",
+		"title": "WordPress 3.0",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/36-wordpress-3-0.md",
+		"parent": null
+	},
+	"the-wordcamp-guidelines": {
+		"slug": "the-wordcamp-guidelines",
+		"title": "The WordCamp Guidelines",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/37-wordpress-guidelines.md",
+		"parent": null
+	},
+	"dealing-with-a-growing-project": {
+		"slug": "dealing-with-a-growing-project",
+		"title": "Dealing With a Growing Project",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/38-dealing-with-a-growing-project.md",
+		"parent": null
+	},
+	"thesis": {
+		"slug": "thesis",
+		"title": "Thesis",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%205/39-thesis.md",
+		"parent": null
+	},
+	"the-transition-to-release-leads": {
+		"slug": "the-transition-to-release-leads",
+		"title": "The Transition to Release Leads",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%206/40-transition-release-leads.md",
+		"parent": null
+	},
+	"the-community-summit": {
+		"slug": "the-community-summit",
+		"title": "The Community Summit",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%206/41-community-summit.md",
+		"parent": null
+	},
+	"the-spirit-of-the-gpl": {
+		"slug": "the-spirit-of-the-gpl",
+		"title": "The Spirit of the GPL",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%206/42-spirit-of-the-gpl.md",
+		"parent": null
+	},
+	"the-problem-with-post-formats": {
+		"slug": "the-problem-with-post-formats",
+		"title": "The Problem with Post Formats",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%206/43-problem-with-post-formats.md",
+		"parent": null
+	},
+	"mp6": {
+		"slug": "mp6",
+		"title": "MP6",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-1/Content/Part%206/44-mp6.md",
+		"parent": null
+	},
+	"building-blocks-catching-up-on-2013": {
+		"slug": "building-blocks-catching-up-on-2013",
+		"title": "Catching up on 2013",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-1-Catching-up-on-2013.md",
+		"parent": null
+	},
+	"chapter-2-buddypress": {
+		"slug": "chapter-2-buddypress",
+		"title": "BuddyPress",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-2-Buddy-Press.md",
+		"parent": null
+	},
+	"chapter-3-plugging-into-plugins": {
+		"slug": "chapter-3-plugging-into-plugins",
+		"title": "Plugging into Plugins",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-3-Plugging-into-plugins.md",
+		"parent": null
+	},
+	"chapter-4-activating-diversity-and-inclusion": {
+		"slug": "chapter-4-activating-diversity-and-inclusion",
+		"title": "Activating Diversity and Inclusion",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-4-Activating-Diversity.md",
+		"parent": null
+	},
+	"chapter-5-wordcamp-us-philadelphia": {
+		"slug": "chapter-5-wordcamp-us-philadelphia",
+		"title": "WordCamp US Philadelphia",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-5-WCUS-Philadelphia.md",
+		"parent": null
+	},
+	"chapter-6-the-customizer": {
+		"slug": "chapter-6-the-customizer",
+		"title": "The Customizer",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-6-The-Customizer.md",
+		"parent": null
+	},
+	"chapter-7-wordcamp-jurisdictions": {
+		"slug": "chapter-7-wordcamp-jurisdictions",
+		"title": "WordCamp Jurisdictions",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-7-WordCamp-Jurisdictions.md",
+		"parent": null
+	},
+	"chapter-8-a-modern-day-printing-press": {
+		"slug": "chapter-8-a-modern-day-printing-press",
+		"title": "A Modern Day Printing Press?",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-8-Gutenberg.md",
+		"parent": null
+	},
+	"chapter-9-open-source-a-political-choice": {
+		"slug": "chapter-9-open-source-a-political-choice",
+		"title": "Open Source: A Political Choice?",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-9-Open%20Source_%20A%20Political%20Choice_.md",
+		"parent": null
+	},
+	"chapter-10-wix-and-wordpress-go-head-to-head": {
+		"slug": "chapter-10-wix-and-wordpress-go-head-to-head",
+		"title": "Wix and WordPress Go Head to Head",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-10-Wix-and-WordPress-Go-Head-To-Head.md",
+		"parent": null
+	},
+	"chapter-11-the-wordpress-economy": {
+		"slug": "chapter-11-the-wordpress-economy",
+		"title": "The WordPress Economy",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-11-The-WordPress-Economy.md",
+		"parent": null
+	},
+	"chapter-12-wordpress-matures": {
+		"slug": "chapter-12-wordpress-matures",
+		"title": "WordPress Matures",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-12-WordPress-Matures.md",
+		"parent": null
+	},
+	"chapter-13-the-pandemic": {
+		"slug": "chapter-13-the-pandemic",
+		"title": "The Pandemic",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-13-The-Pandemic.md",
+		"parent": null
+	},
+	"chapter-14-parlez-vous-wordpress-sil-vous-plait": {
+		"slug": "chapter-14-parlez-vous-wordpress-sil-vous-plait",
+		"title": "“Parlez-vous WordPress s’il vous plaît?”",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-14-Parlez-vous%20WordPress%20s%27il%20vous%20plait_.md",
+		"parent": null
+	},
+	"chapter-15-together-again": {
+		"slug": "chapter-15-together-again",
+		"title": "Together Again",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-15-Together-Again.md",
+		"parent": null
+	},
+	"chapter-16-the-future-of-wordpress": {
+		"slug": "chapter-16-the-future-of-wordpress",
+		"title": "The Future of WordPress",
+		"markdown_source": "https://raw.githubusercontent.com/WordPress/library/trunk/milestones-vol-2/Content/BB-Chapter-16-The-Future-of-WordPress.md",
+		"parent": null
+	}
+}
