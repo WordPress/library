@@ -13,7 +13,7 @@ By the time WordCamp US took place, there had already been 89 WordCamps in 2015,
 
 During WordPress co-founder Matt Mullenweg’s State of the Word address, Philadelphia Councilman David Oh declared December 5 ‘WordPress Day.’ Presentations ranged from sessions on security and accessibility to yoga and turning blogs into books.
 
-## The REST API
+### The REST API
 
 Meanwhile, REST—REpresentational State Transfer—was a central topic in more than one session. The REST API merged with core in WordPress 4.4, released on December 8, 2015, immediately after WordCamp US. This release, named “Clifford” in honor of Clifford Brown, integrated infrastructure for the REST API directly into core.
 
@@ -23,7 +23,7 @@ The REST API allows developers to access WordPress with JavaScript outside the W
 
 The REST API is the foundation for the block editor. It was available as a plugin before it was merged with core, since that method of bringing in new features had been working well.
 
-## Calypso
+### Calypso
 
 It was also the basis of Calypso, the open source project allowing users to manage WordPress.com and Jetpack-enabled self-hosted WordPress websites using a desktop interface.
 
@@ -39,7 +39,7 @@ As always, there were complaints. “I hope there is no plan or intention to del
 
 There was also excitement about the use of JavaScript. In his State of the Word presentation, Matt reassured that “PHP is not going away.”
 
-## Community Summit and Contributor Day
+### Community Summit and Contributor Day
 
 There was a Community Summit on December 2, Unconference Day, and on December 3. The Unconference Day was a day of discussions with no slides, presentations, or electronic conversations. “The goal of the summit is to be honest and work through community issues without distractions,” says the website.
 

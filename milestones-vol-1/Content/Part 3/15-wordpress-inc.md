@@ -10,7 +10,7 @@ Shortly afterward, Matt jumped on stage to announce WordPress Inc. -- with Jonas
 
 Even as the party was going on, trouble was brewing. In February, a <a href="http://wordpress.org/support/topic/odd-wordpress-articles?replies=6">user posted to the WordPress.org support forums</a> asking about hundreds of articles hosted at wordpress.org/articles/. The articles were about everything from credit and healthcare to web hosting. The thread was closed by a forum moderator. Blogger Andy Baio discovered the thread. He contacted Matt to ask about what was going on.
 
-<img src="https://raw.githubusercontent.com/WordPress/book/master/Resources/images/15/wp_org_spam.png" width="800px" />
+<img src="../../Resources/images/15/wp_org_spam.png" width="800px" />
 
 *The Google search results that show the articles hosted on WordPress.org. (Google and the Google logo are registered trademarks of Google Inc., used with permission.)*
 

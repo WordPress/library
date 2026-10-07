@@ -4,7 +4,7 @@ Shuttle had failed back in 2006 and WordPress' admin still needed a redesign. Ma
 
 Whereas Shuttle focused on aesthetics, Happy Cog identified and corrected information architecture problems, and updated and improved WordPress' look and feel. Despite the project's user-first ethos, the admin screens had become cluttered, as new features were sometimes added in a haphazard way. The change between WordPress 1.5 and WordPress 2.3 speaks for itself.  
 
-<img alt="WordPress 1.5 write screen" src="../../Resources/images/28/wp_1_5.png" width=“800px” />
+<img alt="WordPress 1.5 write screen" src="../../Resources/images/28/wp_1_5.png" width="800px" />
 
 *The Write screen in WordPress 1.5.*
 

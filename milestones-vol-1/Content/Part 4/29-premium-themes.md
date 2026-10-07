@@ -76,7 +76,7 @@ A few days after the meeting, <a href="https://web.archive.org/web/2008100215342
 
 In the midst of these debates, themes found a new home on WordPress.org. The theme viewer that had been hosted on themes.wordpress.net <a href="https://web.archive.org/web/20080404175227/http://themes.wordpress.net/blog/4421/version-30/#more-4421">was riddled with problems</a>: themes had security holes, and many of them had obfuscated code. The system was continually being gamed, there were duplicate themes, and many contained spam. The theme directory on WordPress.org was set up to rectify this; it was a place developers could host their themes, and where users could find quality WordPress themes. In July 2008, <a href="http://wordpress.org/news/2008/07/theme-directory/">the Theme Directory launched on WordPress.org</a>, using bbPress (which, at that time, was not a plugin), making it easier than ever to distribute free themes.
 
-<img alt=“the first version of the WordPress theme directory“ src="../../Resources/images/29/theme-directory-2008.jpg" />
+<img alt="the first version of the WordPress theme directory" src="../../Resources/images/29/theme-directory-2008.jpg" />
 
 *The WordPress Theme Directory in 2008.*
 
