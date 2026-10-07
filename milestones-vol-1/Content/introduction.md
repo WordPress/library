@@ -52,9 +52,7 @@ To support her trip, Maria had to find work that would accommodate her fluid lif
 
 <img src="../Resources/images/introduction/maria-2.JPG" alt="Maria with her dogs and her RV" width="600px" />
 
-*Maria Scarpello hanging out with her dogs and Stanley. Photo by sethkhughes.com.*
-
-Maria Scarpello hanging out with her dogs and Stanley. Photo by [sethkhughes.com](http://sethkhughes.com).
+*Maria Scarpello hanging out with her dogs and Stanley. Photo by [sethkhughes.com](http://sethkhughes.com).*
 
 ## Running a Small Business
 

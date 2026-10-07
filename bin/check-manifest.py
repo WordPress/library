@@ -37,7 +37,10 @@ for path in sorted(glob.glob("milestones-vol-*/Content/**/*.md", recursive=True)
     with open(path, encoding="utf-8") as f:
         text = f.read()
     refs = set(re.findall(r"\[\^([^\]]+)\](?!:)", text))
-    notes = set(re.findall(r"(?m)^\[\^([^\]]+)\]:", text))
+    note_list = re.findall(r"(?m)^\[\^([^\]]+)\]:", text)
+    notes = set(note_list)
+    for note in sorted({n for n in note_list if note_list.count(n) > 1}):
+        errors.append(f"{path}: note [^{note}]: is defined more than once")
     for ref in sorted(refs - notes):
         errors.append(f"{path}: footnote [^{ref}] has no note")
     for note in sorted(notes - refs):
