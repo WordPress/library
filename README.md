@@ -14,7 +14,7 @@ WordPress' second decade — the Gutenberg project, the global pandemic, and a l
 
 ## How wordpress.org/book updates
 
-[wordpress.org/book](https://wordpress.org/book/) shows the chapters from this repo. [`manifest.json`](manifest.json) lists every chapter file and the post it fills on the site, and the site re-imports each chapter after it changes on `trunk`. Edit the Markdown here rather than on the site, since the next import replaces edits made there.
+[wordpress.org/book](https://wordpress.org/book/) shows the chapters from this repo. [`manifest.json`](manifest.json) lists every chapter file (as a URL-encoded path relative to the repo root) and the post it fills on the site, and the site re-imports each chapter after it changes on `trunk`. Edit the Markdown here rather than on the site, since the next import replaces edits made there.
 
 - The post title comes from `title` in the manifest. The book title and chapter heading at the top of each file are left off the web page because the site already shows them.
 - Footnotes use standard Markdown: `[^1]` in the text and `[^1]: The note.` at the end of the chapter.

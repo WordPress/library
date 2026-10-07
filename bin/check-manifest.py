@@ -13,25 +13,21 @@ import re
 import sys
 import urllib.parse
 
-PREFIX = "https://raw.githubusercontent.com/WordPress/library/trunk/"
-
 errors = []
 
 with open("manifest.json", encoding="utf-8") as f:
     manifest = json.load(f)
 
-listed = set()
 for key, doc in manifest.items():
     if doc.get("slug") != key:
         errors.append(f"{key}: slug must match the key")
     if not doc.get("title"):
         errors.append(f"{key}: missing title")
     source = doc.get("markdown_source", "")
-    if not source.startswith(PREFIX):
-        errors.append(f"{key}: markdown_source must start with {PREFIX}")
+    if "://" in source or source.startswith("/") or ".." in source:
+        errors.append(f"{key}: markdown_source must be a path relative to manifest.json")
         continue
-    path = urllib.parse.unquote(source[len(PREFIX):])
-    listed.add(path)
+    path = urllib.parse.unquote(source)
     try:
         open(path, encoding="utf-8").close()
     except OSError:
