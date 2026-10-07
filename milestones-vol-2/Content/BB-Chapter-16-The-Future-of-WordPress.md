@@ -4,17 +4,17 @@
 ## Chapter 16 — The Future of WordPress
 
 
-With Phases 1 and 2 of the Gutenberg project complete, WordPress is using its learnings to prepare for what lies ahead - Phases 3 and 4.
+With Phases 1 and 2 of the Gutenberg project complete, WordPress is using its learnings to prepare for what lies ahead—Phases 3 and 4.
 
 ![](https://wordpress.org/book/files/2023/05/Phases-of-Gutenberg-1-1536x1229.png)
 
 As Josepha put it, “Phases 1 and 2 of the Gutenberg project had a very ‘blocks everywhere’ sort of vision. And phase three and, arguably, phase four will have more of a ‘works with the way you work’ vision.”
 
-Some members of the WordPress community have questioned why phase 3 – collaboration – precedes phase 4, the multilingual aspect of WordPress. Precisely this question came up in the [Q & A session](https://make.wordpress.org/project/2023/01/13/sotw22qa/) for State of the Word 2022. 
+Some members of the WordPress community have questioned why phase 3—collaboration—precedes phase 4, the multilingual aspect of WordPress. Precisely this question came up in the [Q and A session](https://make.wordpress.org/project/2023/01/13/sotw22qa/) for State of the Word 2022. 
 
 Matt responded, “From a technical point of view, making WordPress natively multilingual is quite challenging. Adding collaboration tools in advance will help support Phase 4 technical’s implementation and provide tools to manage multilingual content out of the box, like translation and review workflows. So Phase 3 will not just “inform” Phase 4 but will actually create the infrastructure and features central to making Phase 4 possible.”
 
-Beyond that, the future depends on the community. Speaking about contributor growth Tammie Lister says, “We need more people,” echoing the views of many contributors. Even though there are many active contributors to the WordPress project, there is always room for more. 
+Beyond that, the future depends on the community. Speaking about contributor growth, Tammie Lister says, “We need more people,” echoing the views of many contributors. Even though there are many active contributors to the WordPress project, there is always room for more. 
 
 Contributor recruitment and retention can be challenging. [Hari Shanker](https://profiles.wordpress.org/harishanker/) [listed](https://make.wordpress.org/project/2023/01/09/request-for-feedback-how-can-we-improve-the-five-for-the-future-contributor-journey/) some reasons new contributors sometimes leave the project. A lack of guidance was the foundation of many items on the list. Uncertainty about the definition of Five for the Future contributions was another of the concerns, but stronger onboarding and mentoring were the most popular suggested solutions.
 

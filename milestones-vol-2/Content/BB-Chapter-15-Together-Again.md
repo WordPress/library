@@ -16,7 +16,7 @@ In 2021, all but one WordCamp took place online. However, 2022 saw 23 in-person 
 
 Tammie Lister, for whom WordCamp Europe in 2022 was not only the first in-person WordPress event she attended after the pandemic but also the first plane ride and the first travel she undertook, said she hoped the online events would continue. For her, there were more events during the pandemic because of the ease of virtual travel. She hopes to continue taking advantage of those opportunities as well as getting back to in-person events.
 
-500 WordPress Meetup groups doubled the number of events they held in 2022 and volunteer time soared. There were 1,399 release contributors in 2022, including 652 first-time contributors, numbers Matt reported in his 2022 State of the Word address. He also said, “WordPress is one of the most loving communities.” Clearly, these figures support the claim.
+500 WordPress Meetup groups doubled the number of events they held in 2022, and volunteer time soared. There were 1,399 release contributors in 2022, including 652 first-time contributors, numbers Matt reported in his 2022 State of the Word address. He also said, “WordPress is one of the most loving communities.” Clearly, these figures support the claim.
 
 
 ### Guidance
@@ -27,7 +27,7 @@ In the usual WordPress spirit of respect for individuals, stickers were created 
 
 ![](https://make.wordpress.org/community/files/2022/07/Screen-Shot-2022-06-22-at-11.09.09-1.png)
 
-Ticket sales pages told attendees to respect the stickers asking people to wear masks, attend events only if vaccinated or tested negative, and to stay away if they were ill or had been exposed to someone ill.
+Ticket sales pages told attendees to respect the stickers asking people to wear masks, attend events only if vaccinated or tested negative, and stay away if they were ill or had been exposed to someone ill.
 
 The world was figuring out whether to hug or shake hands and how cautious to be. Online events were still an acceptable option, the official messages emphasized. But there was a high level of excitement over the return of face-to-face connections.
 
@@ -35,17 +35,17 @@ Jeff Paul expressed excitement about the Community Summit coming up in 2023. “
 
 ### 2022 Version releases
 
-WordPress 5.9, "Josephine," was a significant release, in that it brought the Site Editor and Twenty Twenty-Two, the first default block theme. It launched on January 25, 2022. Matt led the release, and it included the work of 624 volunteers.
+WordPress 5.9, “Josephine,” was a significant release, in that it brought the Site Editor and Twenty Twenty-Two, the first default block theme. It launched on January 25, 2022. Matt led the release, and it included the work of 624 volunteers.
 
 ![](https://i0.wp.com/wordpress.org/news/files/2022/01/5-9-inline-v2.png?resize=1536%2C1042&ssl=1)
 
-The Site Editor, also known as full site editing, allowed users to make style decisions within the main editor. All design decisions could be made with blocks and for the first time, the Gutenberg block editor applied to a whole website. Design and editing for the entire website, not just a page or post, could be handled with the block editor. The Customizer, Widgets, and Menus, which previously had their locations in the Appearance section of the admin area, could all be replaced by the Site Editor.
+The Site Editor, also known as full site editing, allowed users to make style decisions within the main editor. All design decisions could be made with blocks, and for the first time, the Gutenberg block editor applied to a whole website. Design and editing for the entire website, not just a page or post, could be handled with the block editor. The Customizer, Widgets, and Menus, which previously had their locations in the Appearance section of the admin area, could all be replaced by the Site Editor.
 
 This was true only when using a block theme like Twenty Twenty-Two. When using other kinds of themes or plugins requiring the Customizer, the older interface items continued to be available.
 
 Patterns were accessible from the same editor, and the styles interface allowed global design settings for a full website. More than one stylesheet could be registered for each block. Even for users not using block themes, the controls became more flexible and robust. 
 
-Announced on May 24, 2022, WordPress 6.0, "Arturo," included work by more than 500 contributors from 58 nations. Matt was the release lead for a squad of 16. 
+Announced on May 24, 2022, WordPress 6.0, “Arturo,” included work by more than 500 contributors from 58 nations. Matt was the release lead for a squad of 16. 
 
 ![](https://i0.wp.com/wordpress.org/news/files/2022/05/Main-image-News-post.png?resize=1536%2C1042&ssl=1) 
 
@@ -55,11 +55,11 @@ Writers could select text across blocks and keep existing styles when they trans
 
 In addition, users could lock their blocks, ensuring consistent styling within their websites.
 
-WordPress 6.1, "Misha," was released on November 1, 2022. Matt was once again the release lead, and more than 800 people from over 60 countries took part. The announcement included the news that WordPress powered 43% of the websites in the world.
+WordPress 6.1, “Misha,” was released on November 1, 2022. Matt was once again the release lead, and more than 800 people from over 60 countries took part. The announcement included the news that WordPress powered 43% of the websites in the world.
 
 ![](https://i0.wp.com/wordpress.org/news/files/2022/11/inline-image-inline.png?resize=1536%2C1024&ssl=1)
 
-Misha included the new default theme Twenty Twenty-three, an accessibility-ready theme with 10 style variations included. More than 60 adaptations to increase accessibility were included in this theme. 
+Misha included the new default theme Twenty Twenty-Three, an accessibility-ready theme with 10 style variations included. More than 60 adaptations to increase accessibility were included in this theme. 
 
 Version 6.1 offered more refined design and writing tools in the interface. It increased the flexibility of the block editor, opening its use to themes not designed as block themes.
 
@@ -75,7 +75,7 @@ By the end of 2022, Openverse had added 22 million images and 1.5 million audio 
 
 ![](https://make.wordpress.org/marketing/files/2023/04/Openverse-700-million.png)
 
-Zack Krida, Team Lead on Openverse, offers more on the project's goals. “Two of our very long term goals are to index all Creative Commons licensed works on the web – of which there are over 2.5 billion – and to allow WordPress sites to share their own media directly with Openverse, so that all WordPress users can become contributors to the global commons,” he said. The 6.2 release will directly integrate with Openverse right from the inserter.
+Zack Krida, Team Lead on Openverse, offers more on the project’s goals. “Two of our very long term goals are to index all Creative Commons licensed works on the web—of which there are over 2.5 billion—and to allow WordPress sites to share their own media directly with Openverse, so that all WordPress users can become contributors to the global commons,” he said. The 6.2 release will directly integrate with Openverse right from the inserter.
 
 WordPress and Openverse are, Matt explained, “open ecosystems that feed back to one another.”
 
@@ -93,11 +93,11 @@ The WordPress community is celebrating the 20th year milestone with various even
 
 There will be a video greeting campaign on social media with the hashtag #WP20 congratulating WordPress on the milestone. Social media content will also share WordPress memories from WordCamps and meetups over the past 20 years.
 
-The cornerstone of all the campaigns is “24 Hours of WP20,” a day-long series of global community celebrations in nearly every timezone. WordPress users, developers, and enthusiasts will gather via their local meetup groups and virtually online to wish WordPress a happy 20th birthday, eat some cake, snap some fun photographs, and share it all on social media.
+The cornerstone of all the campaigns is “24 Hours of WP20,” a day-long series of global community celebrations in nearly every time zone. WordPress users, developers, and enthusiasts will gather via their local meetup groups and virtually online to wish WordPress a happy 20th birthday, eat some cake, snap some fun photographs, and share it all on social media.
 
 Because the essence of WordPress is the community, a 20th-anniversary celebration is a celebration of the community. This is what makes WordPress so special.
 Wp20.wordpress.net includes full details of campaigns and resources for the celebration. 
 
-“Taking a step back for a moment,” says core contributor Dan Soschin, “WordPress is the community, the community is WordPress… the two require one another to succeed. Every so often, it’s important to take a step back and look at the path we’ve taken together, reflect on wins (losses too), and celebrate the journey. We all love WordPress, but we love the journey we’ve taken together, too. Many thousands of people have helped get WordPress to where it is today – the CMS of choice for more websites than any other – and it will take many thousands more to sustain the open source project for the next 20 years and beyond.”
+“Taking a step back for a moment,” says core contributor Dan Soschin, “WordPress is the community, the community is WordPress… the two require one another to succeed. Every so often, it’s important to take a step back and look at the path we’ve taken together, reflect on wins (losses too), and celebrate the journey. We all love WordPress, but we love the journey we’ve taken together, too. Many thousands of people have helped get WordPress to where it is today—the CMS of choice for more websites than any other—and it will take many thousands more to sustain the open source project for the next 20 years and beyond.”
 
 ![](https://i0.wp.com/wp20.wordpress.net/wp-content/uploads/wp20-wapuu@4x.png?resize=737%2C1024&ssl=1)
