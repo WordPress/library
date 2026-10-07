@@ -1,27 +1,27 @@
-# Building Blocks: The Evolution of WordPress 
+# Building Blocks: The Evolution of WordPress
 ## Chapter 5 — WordCamp US Philadelphia
 
 ### Flagship events
 
-In 2015, the [first national WordCamp US](https://us.wordcamp.org/2015/) took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended. 
+In 2015, the [first national WordCamp US](https://us.wordcamp.org/2015/) took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended.
 
 ![image](https://i0.wp.com/2015.us.wordcamp.org/files/2015/09/logo1.png?w=640&ssl=1)
 
 WordCamp US was the evolution of the larger scope pioneered by WordCamp San Francisco. 2015 was the first official year of flagship WordCamps as we know them today.
 
-By the time WordCamp US took place, there had already been 89 WordCamps in 2015, with more than 21,000 total attendees. Nonetheless, WordCamp US was the largest WordCamp that had ever taken place. 
+By the time WordCamp US took place, there had already been 89 WordCamps in 2015, with more than 21,000 total attendees. Nonetheless, WordCamp US was the largest WordCamp that had ever taken place.
 
-During WordPress co-founder Matt Mullenweg's State of the Word address, Philadelphia Councilman David Oh declared December 5 ‘WordPress Day.’ Presentations ranged from sessions on security and accessibility to yoga and turning blogs into books. 
+During WordPress co-founder Matt Mullenweg’s State of the Word address, Philadelphia Councilman David Oh declared December 5 ‘WordPress Day.’ Presentations ranged from sessions on security and accessibility to yoga and turning blogs into books.
 
 ## The REST API
 
-Meanwhile, REST — REpresentational State Transfer — was a central topic in more than one session. The REST API merged with core in WordPress 4.4, released on December 8, 2015, immediately after WordCamp US. This release, named “Clifford” in honor of Clifford Brown, integrated infrastructure for the REST API directly into core. 
+Meanwhile, REST—REpresentational State Transfer—was a central topic in more than one session. The REST API merged with core in WordPress 4.4, released on December 8, 2015, immediately after WordCamp US. This release, named “Clifford” in honor of Clifford Brown, integrated infrastructure for the REST API directly into core.
 
 Scott Taylor was the release lead for 4.4. “When WordPress adopts modern technologies, the Internet adopts modern technologies,” Scott said at WordCamp US. He pointed out that the WordPress team had taken a leadership position across the web.
 
-REST API allows developers to access WordPress with JavaScript outside the WordPress installation. APIs enable multiple systems to work together, and the REST API provides an interface for a variety of applications to access WordPress.
+The REST API allows developers to access WordPress with JavaScript outside the WordPress installation. APIs enable multiple systems to work together, and the REST API provides an interface for a variety of applications to access WordPress.
 
-The REST API is the foundation for the block editor. It was available as a plugin before it was merged with core, since that method of bringing in new features had been working well. 
+The REST API is the foundation for the block editor. It was available as a plugin before it was merged with core, since that method of bringing in new features had been working well.
 
 ## Calypso
 
@@ -37,11 +37,11 @@ Calypso is now the standard interface for WordPress.com and is readily available
 
 As always, there were complaints. “I hope there is no plan or intention to delete the proper editor in favor of this terrible cut down version, clearly driven by the curse of the mobile phone,” wrote one commenter in a Calypso forum post.
 
-There was also excitement about the use of JavaScript. In his State of the Word presentation, Matt reassured that, “PHP is not going away.”
+There was also excitement about the use of JavaScript. In his State of the Word presentation, Matt reassured that “PHP is not going away.”
 
 ## Community Summit and Contributor Day
 
-There was a Community Summit on December 2, Unconference Day, and on December 3. The Unconference Day was a day of discussions with no slides, presentations, or electronic conversations. “The goal of the summit is to be honest and work through community issues without distractions,” says the website. 
+There was a Community Summit on December 2, Unconference Day, and on December 3. The Unconference Day was a day of discussions with no slides, presentations, or electronic conversations. “The goal of the summit is to be honest and work through community issues without distractions,” says the website.
 
 Contributor Day fell on Sunday, December 6. Teams included:
 Core, led by Mike Schroder
@@ -56,4 +56,4 @@ Community, led by Josepha Haden
 Meta, led by Ian Dunn
 Training, led by Beth Soderberg
 
-The next Community Summit would not take place until 2018 and then again planned for August 2023. WordCamp US became an important annual event.
+The next Community Summit would not take place until 2018 and was then again planned for August 2023. WordCamp US became an important annual event.
