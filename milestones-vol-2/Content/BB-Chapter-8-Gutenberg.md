@@ -26,7 +26,7 @@ Gutenberg did that by providing a standard, portable publishing method without p
 
 Gutenberg would create a truly WYSIWYG (what you see is what you get) editor and allow greater control over the visual presentation of the website without a need to write code. At the same time, it breaks the work of managing a site into its smallest parts—blocks—and applies that to the whole site.
 
-## Resistance
+### Resistance
 Nothing with that scope can be expected to come about without resistance, and there was plenty of resistance to Gutenberg. As [Michael Philips](https://www.greengeeks.com/tutorials/classic-editor-wordpress/) wrote, “WordPress unveiled the new post and page editor named Gutenberg and the world rejoiced. And by ‘rejoiced,’ I mean they almost universally heaped condemnation and hatred upon the defenseless new editor.”
 
 Many users saw Gutenberg as a market-driven reaction to Wix and Squarespace. Some of those who knew and loved WordPress in its classic form resented having their experience disrupted for the sake—they were convinced—of competing for new users. And at first, it appeared to make few allies.
@@ -41,7 +41,7 @@ Site owners found that the WordPress skills they had learned no longer allowed t
 
 And the truth remained: most people who were not designers couldn’t build a beautiful page with Gutenberg. It had a steep learning curve that required considerable skill and rewarded those who tenaciously exercised their creative abilities.
 
-## Disruption
+### Disruption
 
 When Gutenberg became the default editor, core contributors created the Classic Editor plugin as a transitional on-ramp to using the block editor. Initially, the plan was to sunset that plugin on December 31, 2021, having given everyone enough time to get used to the new editor. That didn’t happen. In fact, the block editor now offers an experience like the classic editor as one of its blocks.
 
@@ -59,7 +59,7 @@ There was excitement, and there was continued resistance. Josepha said, “I spe
 
 “How can you bring something that disruptive without being that disruptive?” asked Matias Ventura, the lead architect of Gutenberg. In a blog post, he compared Gutenberg to the ship of Theseus, which had to be completely rebuilt while it was still sailing. “How can such a vision happen without dismantling, rebuilding, fragmenting, or breaking the WordPress ship that for over a decade has been carrying the thoughts, joys, and livelihoods of millions of people and more than a quarter of the web?” That was the Gutenberg experience.
 
-## Continuous improvement
+### Continuous improvement
 Meanwhile, Gutenberg was improved and updated very regularly. Some users had problems and gave up Gutenberg, not realizing that the problems they faced were being solved.
 
 For example, the earliest iterations of the Gutenberg plugin were designed so that a page built with the block editor would lose its formatting if it was later edited with the classic editor. Today few users remember that—but it was the kind of experience that caused people to give up on Gutenberg early.
