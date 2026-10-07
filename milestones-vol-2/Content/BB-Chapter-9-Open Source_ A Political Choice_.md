@@ -52,7 +52,7 @@ Nowadays, she emphasizes, people don’t expect to have to type into a form. “
 At the same time, the very modern website demonstrated that the new government had control over new technology.
 
 
-### Not Just U.S. presidents
+### Not Just U.S. Presidents
 While the use of WordPress by three presidents of the United States in a row (so far) indicates the platform’s importance, it is not only the presidents who use WordPress in government.
 
 The State Department’s official website, State.gov, is a WordPress website. USA.gov, and the new beta site at beta.usa.gov, are WordPress websites.

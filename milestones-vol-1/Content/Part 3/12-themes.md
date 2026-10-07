@@ -12,7 +12,7 @@ The competition created buzz in the community. In total, there were 38 submissio
 
 <img src="../../Resources/images/12/pink-lillies.png" alt="Naoko Takano's Pink Lillies theme" width="800px" />
 
-*The Pink Lillies design, by Naoko Takano*
+*Pink Lillies, by Naoko Takano.*
 
 The competition successfully widened the pool of available stylesheets, increasing the number from seven to 45. On his website, Alex launched a <a href="http://alexking.org/projects/wordpress/styles/sample.php?wpstyle=pink_lilies">style browser to allow visitors to view the different stylesheets</a>. The competition <a href="http://alexking.org/blog/2005/02/27/wordpress-theme-competition">ran again in 2005</a>, this time receiving more than a hundred submissions. 
 

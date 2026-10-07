@@ -44,7 +44,7 @@ Jen and Liz Danzico -- who continued to work on WordPress’ usability in the Cr
 
 <img alt="Crazyhorse dashboard prototype" src="../../Resources/images/30/crazyhorse-prototype-dashboard.jpg" />
 
-*The Dashboard in the Crazyhorse prototype.*
+*The dashboard in the Crazyhorse prototype.*
 
 WordPress <a href="http://lists.wordpress.org/pipermail/wp-hackers/2008-June/020652.html">developers built the Crazyhorse prototype in a Subversion branch</a>, <a href="http://ma.tt/dropbox/2008/06/wordpress-prototype-1.1.pdf">based on the prototype document</a> (PDF), which outlined changes and rationale. The project focused on user experience and functional development, so the prototype retained WordPress 2.5's visual styles. As in Round 1 testing, participants carried out tasks; talk-aloud, Morae, and eye-tracking helped assess results.
 

@@ -1,6 +1,6 @@
 # Building Blocks: The Evolution of WordPress
 ## Chapter 1 — Catching up on 2013
-### 2013 by the numbers
+### WordPress by the numbers
 
 In 2013, WordPress was ten years old and a far cry from the small personal project it had been at the beginning of 2003.
 
@@ -21,7 +21,7 @@ Matt reported in his [State of the Word address for 2013](https://www.youtube.co
 
 It was not the only web-building platform or content management system available, but WordPress stood out among its competitors. The famous five-minute install meant that everyone could build their own website if they were willing to put in the effort to learn. The system of themes and plugins allowed site owners to create a look and functionality that would have required many hours of professional design and development just a few years before.
 
-And the supportive WordPress community allowed people to share their strengths and benefit from others’ strengths to a degree not seen in other platforms. An open source solution drew involvement and encouraged innovation. A welcoming community brought people to solve challenges and figure out ways to accomplish their goals.
+And the supportive WordPress community allowed people to share their strengths and benefit from others’ strengths to a degree not seen on other platforms. An open source solution drew involvement and encouraged innovation. A welcoming community brought people to solve challenges and figure out ways to accomplish their goals.
 
 The annual WordPress survey in 2013 brought more than 30,000 responses from 178 countries, and there were two top favorite characteristics of WordPress: its ease of use and the community.
 
