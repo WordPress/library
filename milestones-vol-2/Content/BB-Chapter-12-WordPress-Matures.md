@@ -6,6 +6,7 @@
 5.1 also introduced several Site Health features. The Site Health project provides a dashboard showing technical issues affecting the health of a website, with suggestions for improvement. Some suggestions are straightforward, like “Delete unused plugins,” but many are intended for developers rather than site owners.
 
 The updates specifically relating to PHP included:
+
 * Detection of outdated or insecure versions of PHP
 * Notices about PHP versions
 * Checks for plugin compatibility with the site’s PHP version

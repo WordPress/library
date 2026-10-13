@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check manifest.json and chapter footnotes before they reach wordpress.org/book.
+"""Check manifest.json, footnotes and lists before they reach wordpress.org/book.
 
 wordpress.org/book imports every chapter listed in manifest.json, so a
 broken entry or footnote shows up on the live site. Run from the repo root:
@@ -14,6 +14,7 @@ import sys
 import urllib.parse
 
 errors = []
+chapters = set()
 
 with open("manifest.json", encoding="utf-8") as f:
     manifest = json.load(f)
@@ -28,6 +29,7 @@ for key, doc in manifest.items():
         errors.append(f"{key}: markdown_source must be a path relative to manifest.json")
         continue
     path = urllib.parse.unquote(source)
+    chapters.add(path)
     try:
         open(path, encoding="utf-8").close()
     except OSError:
@@ -47,6 +49,16 @@ for path in sorted(glob.glob("milestones-vol-*/Content/**/*.md", recursive=True)
         errors.append(f"{path}: note [^{note}]: is never referenced")
     if re.search(r"\[(?:\^[A-Za-z]+-|[A-Za-z]+\^)\d+\]", text):
         errors.append(f"{path}: old footnote style, use [^1] and [^1]:")
+    if path not in chapters:
+        continue
+    # GitHub shows a list that follows a paragraph line, but the site's
+    # Markdown and pandoc print it as "* item" text.
+    lines = text.split("\n")
+    item = re.compile(r"\s{0,3}(?:[*+-]|\d+\.)\s+\S")
+    for n in range(1, len(lines)):
+        prev = lines[n - 1].strip()
+        if item.match(lines[n]) and prev and not item.match(prev) and prev[0] not in ">|#[":
+            errors.append(f"{path}:{n + 1}: add a blank line before this list")
 
 if errors:
     print("\n".join(errors))
