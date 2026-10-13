@@ -56,8 +56,14 @@ for path in sorted(glob.glob("milestones-vol-*/Content/**/*.md", recursive=True)
     lines = text.split("\n")
     item = re.compile(r"\s{0,3}(?:[*+-]|\d+\.)\s+\S")
     for n in range(1, len(lines)):
-        prev = lines[n - 1].strip()
-        if item.match(lines[n]) and prev and not item.match(prev) and prev[0] not in ">|#[":
+        prev = lines[n - 1]
+        if (
+            item.match(lines[n])
+            and prev.strip()
+            and not prev[0].isspace()
+            and not item.match(prev)
+            and not prev.startswith((">", "|", "#", "[^"))
+        ):
             errors.append(f"{path}:{n + 1}: add a blank line before this list")
 
 if errors:
