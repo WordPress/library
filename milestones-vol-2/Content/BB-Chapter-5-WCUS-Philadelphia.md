@@ -1,7 +1,7 @@
 # Building Blocks: The Evolution of WordPress
 ## Chapter 5 — WordCamp US Philadelphia
 
-### Flagship events
+### Evolving Flagship Events
 
 In 2015, the [first national WordCamp US](https://us.wordcamp.org/2015/) took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended.
 
@@ -35,7 +35,7 @@ Jetpack must be installed on your website for Calypso to be available, and you m
 
 Calypso is now the standard interface for WordPress.com and is readily available for WordPress.org. It allows quick management of multiple websites from the same interface.
 
-As always, there were complaints. “I hope there is no plan or intention to delete the proper editor in favor of this terrible cut down version, clearly driven by the curse of the mobile phone,” wrote one commenter in a Calypso forum post.
+As always, there were complaints. “I hope there is no plan or intention to delete the proper editor in favor of this terrible cut down version, clearly driven by the curse of the mobile phone,” wrote one commenter in a forum post about Calypso.
 
 There was also excitement about the use of JavaScript. In his State of the Word presentation, Matt reassured that “PHP is not going away.”
 

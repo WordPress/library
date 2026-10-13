@@ -34,7 +34,7 @@ Building the WordPress community continues to be an essential part of supporting
 
 With nearly half the websites in the universe built on WordPress, the future of WordPress is integral to the future of the web.
 
-“I want the web to be weird,” says Tammie. “I want that freedom…Themes should be like clothes, not like bones.” Her vision of the future includes unforeseeable surprises. 
+“I want the web to be weird,” says Tammie. “I want that freedom… Themes should be like clothes, not like bones.” Her vision of the future includes unforeseeable surprises. 
 
 WordPress may very well deliver just that.
 

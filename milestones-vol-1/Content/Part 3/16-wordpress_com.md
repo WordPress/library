@@ -2,7 +2,7 @@
 
 As WordPress Incorporated fizzled, Matt pitched a WordPress-based blogging network to his employers at CNET. Many major internet companies had blogging networks including Google, Blogger, Yahoo 360, and Microsoft Spaces. CNET also owned several domains, like online.com, that seemed perfect for a blogging network.
 
-CNET decided against it, but the idea didn’t disappear. Matt decided to build a blogging network himself. [^fn-1]
+CNET decided against it, but the idea didn’t disappear. Matt decided to build a blogging network himself.[^1]
 
 First, he needed the WordPress.com domain name. At the time, it was owned by <a href="http://www.opendomain.org/">Open Domain</a>, an organization that registered domains and gave projects permission to use them in return for acknowledgement. It was unclear whether Open Domain was <a href="http://archive09.linux.com/feature/140576">squatting on domains, or genuinely trying to help free software communities</a>. (They'd also registered Drupal.com, then <a href="http://buytaert.net/drupal-com">donated it to Drupal without incident</a>). The WordPress community was understandably perturbed by the idea of someone squatting on WordPress.com. Owning the domain was key; there was little security in a blogging network without control of its own name.
 
@@ -29,4 +29,4 @@ However, a hosted service like WordPress.com needs a revenue stream to pay for s
 
 While the business end was coming together around the developers who had built WordPress.com, Matt was working on another product that would influence the WordPress community, an anti-spam plugin called Akismet. 	
 		
-[^fn-1] CNET went on to be one of the first investors in Automattic.
+[^1]: CNET went on to be one of the first investors in Automattic.

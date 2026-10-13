@@ -26,7 +26,7 @@ On both sides, people were frustrated for ThemeForest's authors. While the issue
 
 The argument raged in the comments of Jake's blog, spiralling to other <a href="http://www.poststat.us/what-now-for-commercial-theme-authors/">WordPress community blogs</a>, and to the <a href="http://themeforest.net/forums/thread/wordpressorg-bans-themeforest-members-from-participating-in-official-wordcamp-gatherings/85648?page=2">ThemeForest forums</a>. Matt joined the discussion on Jake's blog, <a href="http://www.designcrumbs.com/automatically-blackballed#comment-430">saying that</a> if ThemeForest authors had a choice about licensing and could release their theme under the GPL, then "Envato would still be breaking the guideline, but Jake wouldn't, so it'd be fine for Jake to be involved with WordCamps."
 
-Collis Ta'eed, CEO of Envato, <a href="http://torquemag.io/themeforest-wordcamps/">responded on WP Daily</a>, [^Fn-1] outlining Envato's licensing model rationale. As a designer, Collis' main concern is protecting his designers' rights, while ensuring that customers can use the resources they purchase.
+Collis Ta'eed, CEO of Envato, <a href="http://torquemag.io/themeforest-wordcamps/">responded on WP Daily</a>,[^1] outlining Envato's licensing model rationale. As a designer, Collis' main concern is protecting his designers' rights, while ensuring that customers can use the resources they purchase.
 
 As with so many disagreements in the WordPress community, it came down to a difference in emphasis. While the WordPress project emphasizes user freedoms, Envato emphasizes creators' rights. Both felt strongly that they had the moral imperative, and backing down meant violating the principles that underpinned their organization. The WordPress project places user freedoms over and above every thing else. If this meant excluding theme authors who sold on ThemeForest, then so be it. 
 
@@ -39,5 +39,5 @@ From the project’s perspective, theme authors could choose to sell their theme
 Collis surveyed ThemeForest authors to gauge support for a GPL opt-in option. "I felt pretty guilty that our authors were paying some sort of price for selling with us, that felt pretty wrong," <a href="http://archive.wordpress.org/interviews/2014_04_11_Taeed.html#L86">says Collis</a>. <a href="http://notes.envato.com/news/survey-results-about-gpl-opt-in-choice/">The results</a> showed that verified authors were split; some said they would license their themes under the GPL, the same number said they would stick with the split license, and 35% said that they didn't know which license they'd choose. On March 26, Collis announced a 100%-GPL license for ThemeForest authors. Jake was <a href="http://www.designcrumbs.com/un-blackballed">once again allowed to speak at WordCamps</a>. 
 
 
-[^Fn-1] WP Daily has since been acquired and its content moved to Torque magazine.
+[^1]: WP Daily has since been acquired and its content moved to Torque magazine.
 

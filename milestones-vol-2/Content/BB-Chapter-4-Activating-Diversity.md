@@ -96,6 +96,8 @@ In 2017, the Diversity Outreach Speaker Training working group began meeting. Di
 
 ![image](https://i0.wp.com/wordpress.org/news/files/2020/12/wordpress-5-6_cover-a11y.jpg?w=1264&ssl=1)
 
+*Artwork from the 5.6 WordPress release “Simone”*
+
 In 2020, after several years of planning and effort, Josepha led WordPress release 5.6, “Simone,” with a release squad of women and non-binary individuals. “WordPress can be used by anybody,” she said, “so it should also be built by anybody.”
 
 [Release names](https://wordpress.org/about/history/) had similarly celebrated far more male jazz musicians than female ones. More significantly, contributors continued to be disproportionately male, particularly among the developers. 5.6 sought to address this issue as well.

@@ -12,6 +12,15 @@ The origins of WordPress and its first decade. [Read the book](milestones-vol-1/
 
 WordPress' second decade — the Gutenberg project, the global pandemic, and a look at where the project is headed. [Read the book](milestones-vol-2/) · Formats: [EPUB](milestones-vol-2/Formats/Building%20Blocks%20The%20Evolution%20of%20WordPress%20%282page%29.epub) · [PDF](milestones-vol-2/Formats/Building_Blocks_The_Evolution_of_WordPress.pdf) · [MOBI](milestones-vol-2/Formats/Building%20Blocks%20The%20Evolution%20of%20WordPress.mobi)
 
+## How wordpress.org/book updates
+
+[wordpress.org/book](https://wordpress.org/book/) shows the chapters from this repo. [`manifest.json`](manifest.json) lists every chapter file (as a URL-encoded path relative to the repo root) and the post it fills on the site, and the site re-imports each chapter after it changes on `trunk`. Edit the Markdown here rather than on the site, since the next import replaces edits made there.
+
+- The post title comes from `title` in the manifest. The book title and chapter heading at the top of each file are left off the web page because the site already shows them.
+- Footnotes use standard Markdown: `[^1]` in the text and `[^1]: The note.` at the end of the chapter.
+- A new chapter needs a post on the site first, then a manifest entry with that post's slug.
+- `python3 bin/check-manifest.py` checks the manifest and footnotes. It also runs on every pull request.
+
 ## Feedback
 
 The following feedback is particularly valuable:
