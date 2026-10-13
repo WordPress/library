@@ -1,3 +1,6 @@
+> [!NOTE]
+> These are the original 2015 files and don't include later corrections. For the current text, download the [EPUB](https://github.com/WordPress/library/releases/download/latest/Milestones-The-Story-of-WordPress.epub) or [PDF](https://github.com/WordPress/library/releases/download/latest/Milestones-The-Story-of-WordPress.pdf), rebuilt every time the book changes.
+
 # Download _Milestones: The Story of WordPress_
 
 The book is available in three formats: 

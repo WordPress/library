@@ -28,6 +28,7 @@ Andrea Middleton had previously written, “One goal for the WordPress Community
 She went on, “Another goal in the WordPress Community program (which dovetails nicely with our goal of having a community in as many cities in the world as possible) is to make WordPress community accessible to as many people as possible, regardless of their financial status or other factors that might limit travel. Having several WordCamps in a certain country every year makes WordCamp more available to more people, even if those folks are not able to travel.”
 
 In the ensuing discussion, organizers from countries that had been required to switch from regional to city-based WordCamps brought up concerns:
+
 * Small camps were as much effort to organize as large camps, thus making their “bang for the buck” lower.
 * City-level WordCamps would cannibalize organizers, speakers, and attendees from monthly meetup groups.
 * Regional WordCamps allow people from small communities to meet new people in ways that city-wide WordCamps don’t.

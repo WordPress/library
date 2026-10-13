@@ -16,7 +16,7 @@ Michael redesigned the Habari interface -- which he says was both a good and bad
 
 <blockquote>It’s easy to end up in very long discussions if everybody has equal footing. And that makes for a great democracy, but it’s also very hippie, 60s, everybody gets to sit around and share their opinion, but that’s not always something that’s really worthwhile. You don’t actually, necessarily, get a better product out of it. And so often you need somebody with vision, or at least somebody with a point of view with opinion to weigh in.</blockquote>
 
-<img src="../../Resources/images/24/habari-monolith.png" alt="The Create Entry screen in Habari's dashboard" width="800px">
+<img src="../../Resources/images/24/habari-monolith.png" alt="The Create Entry screen in Habari's dashboard" width="800px" />
 
 *The Habari Monolith interface, designed by Michael Heilemann.*
 

@@ -12,7 +12,7 @@ The 3.6 release encountered problems; <a href="http://make.wordpress.org/core/20
 
 The problem was that despite time spent on wireframes and development, the team ended up unimpressed. They created specifications, built to the specifications, and were unhappy with the result. “It's like ordering something from the restaurant that sounds great,” <a href="http://archive.wordpress.org/interviews/2014_06_05_Campbell.html#L71">says Aaron Campbell</a>, “but as soon as it sits in front of you and you smell it, it's like, 'Ahh, definitely not what I was in the mood for.'" Even during WordPress 3.6's beta period, community members <a href="http://ran.ge/2013/04/11/re-thinking-wordpress-post-format-ui-an-exercise/">experimented with better approaches to the problem</a>.		
 
-<img src="../../Resources/images/44/post-formats.jpg" "one of the proposals for the post formats UI" />
+<img src="../../Resources/images/44/post-formats.jpg" alt="one of the proposals for the post formats UI" />
 
 *The post formats user interface*
 
