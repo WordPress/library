@@ -30,7 +30,7 @@ In addition to people who had never liked the Customizer and people who didn’t
 
 “I haven’t seen anyone outside of the decision makers who thinks this is a good idea,” said another. This viewpoint—that the developers were making choices contrary to the will and best interests of the users—became a recurring motif in the discussions.
 
-Sara Gooding wrote, “Anti-Customizer vitriol reached its zenith last week when the Menu Customizer plugin was officially approved for merge into WordPress 4.3.”
+Sarah Gooding wrote, “Anti-Customizer vitriol reached its zenith last week when the Menu Customizer plugin was officially approved for merge into WordPress 4.3.”
 
 Nick Halsey described “general and ongoing resistance to the Customizer as a whole that we’ve seen from many community members (which I think is more of an educational issue).”
 

@@ -15,7 +15,7 @@ The plugin directory, a place for users to find the plugins they needed, was lau
 Plugin update notifications were implemented later that year. In 2008, WordPress admin began offering a simple option for adding plugins without using file transfer protocol, the special software for transferring computer files. This was a boon for non-technical users.
 
 ### A Plugin Explosion
-As plugins became more important, the numbers increased significantly. There are—at the time of writing—[over 60,000 plugins](https://wordpress.org/plugins/). The number doubled from 30,000 in 2014. Almost anything users might want to do with a website could be done with a plugin—if they had the patience to browse through the list and try out enough examples to identify a plugin that would meet their needs.
+As plugins became more important, the numbers increased significantly. There were—at the time of writing in 2023—[over 60,000 plugins](https://wordpress.org/plugins/). The number doubled from 30,000 in 2014. Almost anything users might want to do with a website could be done with a plugin—if they had the patience to browse through the list and try out enough examples to identify a plugin that would meet their needs.
 
 At the same time, the sheer number of plugins began to be overwhelming. WordCamp sessions comparing half a dozen social sharing plugins or listing the ten most important plugins became popular. Debates on the correct number of plugins for a single website were common.
 
@@ -69,7 +69,7 @@ There was [extensive discussion](https://make.wordpress.org/core/2020/11/10/wp5-
 
 WordPress shared [instructions for disabling](https://make.wordpress.org/core/2013/10/25/the-definitive-guide-to-disabling-auto-updates-in-wordpress-3-7/) auto updates and plugins were developed to make it easier. However, Andrew Nacin wrote in his instructions for sabotaging the auto updates, “I’d argue that ‘I don’t want them’ is not a compelling reason for disabling updates. If you don’t keep your site up to date, you are making the web a less safe place for you and everyone who visits your website.”
 
-Site owners got the chance to opt into auto updates for major core versions with 5.6 in 2020.
+Site owners got the chance to opt into auto updates for plugins and themes with 5.5, and for major core versions with 5.6 in 2020.
 
 If core security is involved and the site owner doesn’t take the necessary steps, the WordPress servers will instruct the website to update itself. This is done for core updates but also for some plugins.
 

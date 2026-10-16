@@ -17,7 +17,7 @@ As of 5.2, PHP version 5.6.20 became the minimum version supported by WordPress.
 
 ![](https://i0.wp.com/wordpress.org/news/files/2019/11/5.3-album-cover.png?w=1440&ssl=1)
 
-The third update for 2019 was [5.3, Kirk](https://wordpress.org/news/2019/11/kirk/), led by [Matt Mullenweg](https://ma.tt/), [Francesca Marano](https://profiles.wordpress.org/francina/), and [David Baumwald](https://profiles.wordpress.org/davidbaumwald). It included a new default theme, Twenty Twenty, designed for the block editor, further tweaks to the Site Health features, and full support for PHP 7.4.
+The third update for 2019 was [5.3, Kirk](https://wordpress.org/news/2019/11/kirk/), led by [Matt Mullenweg](https://ma.tt/), [Francesca Marano](https://profiles.wordpress.org/francina/), and [David Baumwald](https://profiles.wordpress.org/davidbaumwald). It included a new default theme, Twenty Twenty, designed for the block editor, further tweaks to the Site Health features, a refresh of the admin interface for better accessibility, and full support for PHP 7.4.
 
 ![](https://i0.wp.com/themes.svn.wordpress.org/twentytwenty/2.2/screenshot.png?w=1144&strip=all)
 
