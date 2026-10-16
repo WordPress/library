@@ -21,7 +21,7 @@ This concern that diversity would supplant merit in decision-making is a common 
 
 Over time, as in other communities, recognition of the value of diversity and inclusion grew. Concerns about this issue faded.
 
-Discussions at the time included the idea of training sessions to encourage women to speak at WordCamps and Meetup events. This project finally came to fruition in 2019 as part of the Diverse Speaker Training group led by [Jill Binder](https://profiles.wordpress.org/jillbinder/).
+Discussions at the time included the idea of training sessions to encourage women to speak at WordCamps and Meetup events. This project came to fruition in late 2017 as part of the Diverse Speaker Training group led by [Jill Binder](https://profiles.wordpress.org/jillbinder/).
 
 Others involved in the project were Vanessa Cleven, Kate Moore Hermes, Mandi Wise, Kathryn Presner, Tammie Lister, and Morgan Kay.
 
@@ -41,18 +41,18 @@ Diversity among speakers and at in-person events was a big part of the effort, t
 
 >“WordCamp CITYNAMEHERE believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, age, caste, social class, preferred operating system, programming language, or text editor, among other identifying characteristics.”
 
-By 2017, some WordCamp organizers were bragging that half of the speakers at their WordCamps were female, though many camps were still celebrating representation nearing 50% in 2022.
+By 2017, some WordCamps had reached half female speakers, though many camps were still celebrating representation nearing 50% in 2022.
 
 [Release names](https://wordpress.org/about/history/), however, celebrated male jazz musicians far more than female ones.
 
-### Ethnicity
+### Beyond gender
 
 Jill and her team moved on from their focus on women and eventually developed three workshops: one to encourage people from underrepresented groups to become speakers, a Diverse Speaker Support Program, and a workshop on organizing inclusive events.
 Aurooba Ahmed, Allie Nimmons, and David Wolfpaw were involved in creating the workshop on inclusive events.
 
 As ethnic diversity became part of the effort, there were also some results in this area. BlackPress, a community for Black WordPressers, was developed by alumni of the Diverse Speaker program.
 
-Some WordCamps worked on increasing ethnic diversity, usually by inviting speakers or organizers from diverse communities. [Angela Jin](https://profiles.wordpress.org/angelasjin/) of the Community team led a panel discussion on the issue in 2020. She also opened an online discussion in 2022. The same issues continued to arise, and the focus continued to be on events. “Saying that ‘everyone is welcome’ is not enough towards creating diverse events,” she wrote. “Being intentional and consistent, and creating welcoming spaces, builds much needed trust towards inclusion in an event and its broader community.”
+Some WordCamps worked on increasing ethnic diversity, usually by inviting speakers or organizers from diverse communities. [Angela Jin](https://profiles.wordpress.org/angelasjin/) of the Community team led a panel discussion on diversity across underrepresented groups in 2020. She also opened an online discussion in 2022. The same issues continued to arise, and the focus continued to be on events. “Saying that ‘everyone is welcome’ is not enough towards creating diverse events,” she wrote. “Being intentional and consistent, and creating welcoming spaces, builds much needed trust towards inclusion in an event and its broader community.”
 
 There was a hope that getting a more varied group of people onto the stage would foster more diverse audiences and naturally lead to less homogenous groups. Still, like so much of the tech community, WordPress continues to see limited levels of participation from historically underrepresented voices.
 
