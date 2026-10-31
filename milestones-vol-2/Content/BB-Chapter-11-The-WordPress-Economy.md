@@ -16,7 +16,7 @@ In terms of Economics, what does this popularity mean? As WordPress sought to de
 
 In 2018 and 2019, traditional hand-coded websites were still in the majority, but by 2021 WordPress surpassed them. In 2018–2019, as is still true now, the use of WordPress dwarfed the use of all other content management systems combined. According to WPEngine’s Study of the WordPress Economy, the WordPress-enabled economy reached $596.7 billion early in 2021.
 
-“If WordPress were a country,” [the WPEngine report](https://wpengine.com/resources/value-of-wordpress-worlds-first-study-of-wordpress-economy/#:~:text=The%20WordPress%20Economy,-Based%20on%20our&text=If%20WordPress%20were%20a%20country,a%20lifeline%20for%20many%20businesses.) claims, “its economy would rank 39th in the world.”
+“If WordPress were a country,” [the WPEngine report](https://web.archive.org/web/20211019043424/https://wpengine.com/resources/value-of-wordpress-worlds-first-study-of-wordpress-economy/#:~:text=The%20WordPress%20Economy,-Based%20on%20our&text=If%20WordPress%20were%20a%20country,a%20lifeline%20for%20many%20businesses.) claims, “its economy would rank 39th in the world.”
 
 In a podcast, Josepha listed five groups of people in the WordPress ecosystem:
 

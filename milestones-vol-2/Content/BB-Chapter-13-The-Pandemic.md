@@ -42,7 +42,7 @@ For some participants, these virtual meetups were essential sources of human con
 
 Contributors were affected too. [The Corporation for National and Community Service](https://americorps.gov) (AmeriCorps) found that one-third of Americans volunteered regularly before the pandemic and that there was a 60% drop in these rates after the pandemic began. Community organizer [Cami Kaos](https://profiles.wordpress.org/camikaos/) saw similar patterns among WordPress contributors. 
 
-“About a month in there is just this utter and complete fatigue where we realize this is no longer a fun novelty thing that we’re doing,” [she told MasterWP](https://masterwp.com/presstheissue/how-did-the-pandemic-affect-wordpress-contributors/). “This is our world now. We can’t go and see our friends, we can’t do in-person events. Now, rather than being excited that we can do these fun new event types, we’re upset because we can’t do the at-there event types.” 
+“About a month in there is just this utter and complete fatigue where we realize this is no longer a fun novelty thing that we’re doing,” [she told MasterWP](https://web.archive.org/web/20240221124629/https://masterwp.com/presstheissue/how-did-the-pandemic-affect-wordpress-contributors/). “This is our world now. We can’t go and see our friends, we can’t do in-person events. Now, rather than being excited that we can do these fun new event types, we’re upset because we can’t do the at-there event types.” 
 
 She found that community members felt frustrated. They began to ask things like, “Why won’t you let us meet in person?” 
 

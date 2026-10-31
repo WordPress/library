@@ -7,7 +7,7 @@
 ### Chapter 3
 - [Homesteading the Noosphere](http://www.catb.org/esr/writings/homesteading/homesteading/), Eric Raymond
 - [The Hacker's Dictionary](http://www.outpost9.com/reference/jargon/jargon_toc.html)
-- [A Comprehensive Study of Software Forks: Dates, Reasons, and Outcomes](http://flosshub.org/sites/flosshub.org/files/paper_0.pdf), Gregorio Robles and Jesús M. González-Barahona
+- [A Comprehensive Study of Software Forks: Dates, Reasons, and Outcomes](https://web.archive.org/web/20151123001620/http://flosshub.org/sites/flosshub.org/files/paper_0.pdf), Gregorio Robles and Jesús M. González-Barahona
 
 ### Chapter 4
 - [Free Software, Free Society: Selected Essays of Richard M. Stallman](http://shop.fsf.org/product/free-software-free-society-2/), Richard Stallman

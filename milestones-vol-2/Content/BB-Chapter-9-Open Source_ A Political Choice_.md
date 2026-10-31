@@ -10,7 +10,7 @@ Indeed, it is not only American political leaders who have embraced WordPress. H
 * [The President of Yemen](https://presidenthadi-gov-ye.info)
 * [The Prime Minister of the United Kingdom](https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street)
 * [The Prime Minister of India](https://www.pmindia.gov.in/en/)
-* [The Royal Thai Embassy](https://thaiembdc.org/h-m-king-maha-vajiralongkorn/)
+* [The Royal Thai Embassy](https://web.archive.org/web/20230802072510/https://thaiembdc.org/h-m-king-maha-vajiralongkorn/)
 * [Sweden’s official national website](https://sweden.se)
 
 
@@ -36,7 +36,7 @@ The [Washington Examiner reported](https://www.washingtonexaminer.com/white-hous
 The Trump administration’s version of WhiteHouse.gov archives are still visible at [TrumpWhiteHouse.archives.gov](http://TrumpWhiteHouse.archives.gov). Trump also had a WordPress blog called “From the Desk of Donald J. Trump,” though that has been shut down. His current official website, donaldjtrump.com, is not a WordPress site.
 
 ### Joseph R. Biden
-Joe Biden used WordPress for his campaign site, [JoeBiden.com](http://JoeBiden.com), and the Harris-Biden transition site, BuildBackBetter.com. Upon Biden’s win, the transition site redirected to [BuildBackBetter.gov](http://BuildBackBetter.gov), and then to whitehouse.gov when his administration updated the national site.
+Joe Biden used WordPress for his campaign site, [JoeBiden.com](http://JoeBiden.com), and the Harris-Biden transition site, BuildBackBetter.com. Upon Biden’s win, the transition site redirected to [BuildBackBetter.gov](https://web.archive.org/web/20210120162325/http://BuildBackBetter.gov), and then to whitehouse.gov when his administration updated the national site.
 
 ![image](https://make.wordpress.org/marketing/files/2023/04/Biden-White-House-Website.png)
 
