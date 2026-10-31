@@ -28,7 +28,7 @@ The research team used three main testing methods in Round 1:
 
 Round 1 testing on WordPress 2.5 uncovered minor issues with settings, the media library, link categories, and tag management. Users also wanted more control over dashboard modules and the post edit screen.
 
-<blockquote>In addition to a laundry list of small interface issues that presented simple fixes, such as changing comment author links, we were faced with larger issues such as the desire for user-determined hierarchies on long/scrolling screens, ambiguity in the Write/Manage navigation paradigm, and a disconnect between the act of adding media to a post and the ability to manage it. -- <a href="https://github.com/WordPress/book/blob/master/Resources/articles/2008_07_Usability_Report_Crazyhorse.pdf">Usability Test Report</a> (PDF)</blockquote>
+<blockquote>In addition to a laundry list of small interface issues that presented simple fixes, such as changing comment author links, we were faced with larger issues such as the desire for user-determined hierarchies on long/scrolling screens, ambiguity in the Write/Manage navigation paradigm, and a disconnect between the act of adding media to a post and the ability to manage it. -- <a href="https://github.com/WordPress/library/blob/trunk/milestones-vol-1/Resources/articles/2008_07_Usability_Report_Crazyhorse.pdf">Usability Test Report</a> (PDF)</blockquote>
 
 Minor changes were incorporated into the Test1515 prototype and tested -- though they were so minor that participants didn't react strongly either way. The team created Crazyhorse to:
 

@@ -6,7 +6,7 @@ The wp-hackers mailing list was in its third year, but productive discussion the
 
 Exchanges on the mailing list inclined less toward development, and more toward <a href="http://lists.wordpress.org/pipermail/wp-hackers/2007-September/015058.html">meta-discussions about the mailing list itself</a>, from the <a href="http://lists.wordpress.org/pipermail/wp-hackers/2007-September/015173.html">high signal-to-noise ratio</a>, to <a href="http://lists.wordpress.org/pipermail/wp-hackers/2007-October/015489.html">ideas to improve mailing list etiquette</a>. 	
 
-<a href="http://andy.wordpress.com/2007/10/03/wp-hackers/">Andy Skelton wrote about the problem with wp-hackers</a>:
+<a href="https://web.archive.org/web/20150415152824/http://andy.wordpress.com/2007/10/03/wp-hackers/">Andy Skelton wrote about the problem with wp-hackers</a>:
 
 <blockquote>There is just one thing I want to make clear about wp-hackers: a hacker is not someone who discusses or pays lip service or dissents or casts a vote or says what can or should be done. Hackers aren’t committee members. Hackers are more interested in proving what can be done than arguing about it.</blockquote>
 
